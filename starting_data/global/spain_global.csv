@@ -1,0 +1,137 @@
+,project,type,country,unit,status,capacity,start_year,owner,lat,lng,url
+962,Almaraz nuclear power plant,nuclear,Spain,1,operating,1049.0,1983.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+963,Almaraz nuclear power plant,nuclear,Spain,2,operating,1044.0,1984.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+964,Ascó nuclear power plant,nuclear,Spain,1,operating,1033.0,1984.0,Endesa SA,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+965,Ascó nuclear power plant,nuclear,Spain,2,operating,1027.0,1986.0,Endesa; Iberdrola,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+966,Cofrentes nuclear power plant,nuclear,Spain,,operating,1102.0,1985.0,Iberdrola SA,39.2134,-1.0509,https://gem.wiki/Cofrentes_nuclear_power_plant
+967,Jose Cabrera nuclear power plant,nuclear,Spain,1,retired,150.0,1969.0,Union Fenosa Generation SA,40.3478,-2.8889,https://gem.wiki/Jose_Cabrera_nuclear_power_plant
+968,Lemóniz nuclear power plant,nuclear,Spain,1,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+969,Lemóniz nuclear power plant,nuclear,Spain,2,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+970,Regodola nuclear power plant,nuclear,Spain,1,cancelled,1000.0,,Fenosa [60%]; Hidroeléctrica del Cantábrico [20%]; Electra de Viesgo [20%],43.6893,-7.50301,https://gem.wiki/Regodola_nuclear_power_plant
+971,Santa Maria De Garona nuclear power plant,nuclear,Spain,,retired,466.0,1971.0,Nuclenor SA,42.77501,-3.20701,https://gem.wiki/Santa_Maria_De_Garona_nuclear_power_plant
+972,Sayago nuclear power plant,nuclear,Spain,1,cancelled,1075.0,,Iberduero SA,41.48401,-6.0802,https://gem.wiki/Sayago_nuclear_power_plant
+973,Trillo nuclear power plant,nuclear,Spain,1,operating,1066.0,1988.0,Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+974,Trillo nuclear power plant,nuclear,Spain,2,cancelled,1000.0,,,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+975,Valdecaballeros nuclear power plant,nuclear,Spain,1,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+976,Valdecaballeros nuclear power plant,nuclear,Spain,2,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+977,Vandellos nuclear power plant,nuclear,Spain,1,retired,500.0,1972.0,Hispano-Francesa De Energia Nuclear SA,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+978,Vandellos nuclear power plant,nuclear,Spain,2,operating,1087.0,1988.0,Endesa; Iberdrola,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+962,Almaraz nuclear power plant,nuclear,Spain,1,operating,1049.0,1983.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+963,Almaraz nuclear power plant,nuclear,Spain,2,operating,1044.0,1984.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+964,Ascó nuclear power plant,nuclear,Spain,1,operating,1033.0,1984.0,Endesa SA,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+965,Ascó nuclear power plant,nuclear,Spain,2,operating,1027.0,1986.0,Endesa; Iberdrola,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+966,Cofrentes nuclear power plant,nuclear,Spain,,operating,1102.0,1985.0,Iberdrola SA,39.2134,-1.0509,https://gem.wiki/Cofrentes_nuclear_power_plant
+967,Jose Cabrera nuclear power plant,nuclear,Spain,1,retired,150.0,1969.0,Union Fenosa Generation SA,40.3478,-2.8889,https://gem.wiki/Jose_Cabrera_nuclear_power_plant
+968,Lemóniz nuclear power plant,nuclear,Spain,1,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+969,Lemóniz nuclear power plant,nuclear,Spain,2,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+970,Regodola nuclear power plant,nuclear,Spain,1,cancelled,1000.0,,Fenosa [60%]; Hidroeléctrica del Cantábrico [20%]; Electra de Viesgo [20%],43.6893,-7.50301,https://gem.wiki/Regodola_nuclear_power_plant
+971,Santa Maria De Garona nuclear power plant,nuclear,Spain,,retired,466.0,1971.0,Nuclenor SA,42.77501,-3.20701,https://gem.wiki/Santa_Maria_De_Garona_nuclear_power_plant
+972,Sayago nuclear power plant,nuclear,Spain,1,cancelled,1075.0,,Iberduero SA,41.48401,-6.0802,https://gem.wiki/Sayago_nuclear_power_plant
+973,Trillo nuclear power plant,nuclear,Spain,1,operating,1066.0,1988.0,Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+974,Trillo nuclear power plant,nuclear,Spain,2,cancelled,1000.0,,,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+975,Valdecaballeros nuclear power plant,nuclear,Spain,1,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+976,Valdecaballeros nuclear power plant,nuclear,Spain,2,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+977,Vandellos nuclear power plant,nuclear,Spain,1,retired,500.0,1972.0,Hispano-Francesa De Energia Nuclear SA,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+978,Vandellos nuclear power plant,nuclear,Spain,2,operating,1087.0,1988.0,Endesa; Iberdrola,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+962,Almaraz nuclear power plant,nuclear,Spain,1,operating,1049.0,1983.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+963,Almaraz nuclear power plant,nuclear,Spain,2,operating,1044.0,1984.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+964,Ascó nuclear power plant,nuclear,Spain,1,operating,1033.0,1984.0,Endesa SA,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+965,Ascó nuclear power plant,nuclear,Spain,2,operating,1027.0,1986.0,Endesa; Iberdrola,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+966,Cofrentes nuclear power plant,nuclear,Spain,,operating,1102.0,1985.0,Iberdrola SA,39.2134,-1.0509,https://gem.wiki/Cofrentes_nuclear_power_plant
+967,Jose Cabrera nuclear power plant,nuclear,Spain,1,retired,150.0,1969.0,Union Fenosa Generation SA,40.3478,-2.8889,https://gem.wiki/Jose_Cabrera_nuclear_power_plant
+968,Lemóniz nuclear power plant,nuclear,Spain,1,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+969,Lemóniz nuclear power plant,nuclear,Spain,2,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+970,Regodola nuclear power plant,nuclear,Spain,1,cancelled,1000.0,,Fenosa [60%]; Hidroeléctrica del Cantábrico [20%]; Electra de Viesgo [20%],43.6893,-7.50301,https://gem.wiki/Regodola_nuclear_power_plant
+971,Santa Maria De Garona nuclear power plant,nuclear,Spain,,retired,466.0,1971.0,Nuclenor SA,42.77501,-3.20701,https://gem.wiki/Santa_Maria_De_Garona_nuclear_power_plant
+972,Sayago nuclear power plant,nuclear,Spain,1,cancelled,1075.0,,Iberduero SA,41.48401,-6.0802,https://gem.wiki/Sayago_nuclear_power_plant
+973,Trillo nuclear power plant,nuclear,Spain,1,operating,1066.0,1988.0,Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+974,Trillo nuclear power plant,nuclear,Spain,2,cancelled,1000.0,,,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+975,Valdecaballeros nuclear power plant,nuclear,Spain,1,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+976,Valdecaballeros nuclear power plant,nuclear,Spain,2,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+977,Vandellos nuclear power plant,nuclear,Spain,1,retired,500.0,1972.0,Hispano-Francesa De Energia Nuclear SA,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+978,Vandellos nuclear power plant,nuclear,Spain,2,operating,1087.0,1988.0,Endesa; Iberdrola,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+962,Almaraz nuclear power plant,nuclear,Spain,1,operating,1049.0,1983.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+963,Almaraz nuclear power plant,nuclear,Spain,2,operating,1044.0,1984.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+964,Ascó nuclear power plant,nuclear,Spain,1,operating,1033.0,1984.0,Endesa SA,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+965,Ascó nuclear power plant,nuclear,Spain,2,operating,1027.0,1986.0,Endesa; Iberdrola,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+966,Cofrentes nuclear power plant,nuclear,Spain,,operating,1102.0,1985.0,Iberdrola SA,39.2134,-1.0509,https://gem.wiki/Cofrentes_nuclear_power_plant
+967,Jose Cabrera nuclear power plant,nuclear,Spain,1,retired,150.0,1969.0,Union Fenosa Generation SA,40.3478,-2.8889,https://gem.wiki/Jose_Cabrera_nuclear_power_plant
+968,Lemóniz nuclear power plant,nuclear,Spain,1,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+969,Lemóniz nuclear power plant,nuclear,Spain,2,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+970,Regodola nuclear power plant,nuclear,Spain,1,cancelled,1000.0,,Fenosa [60%]; Hidroeléctrica del Cantábrico [20%]; Electra de Viesgo [20%],43.6893,-7.50301,https://gem.wiki/Regodola_nuclear_power_plant
+971,Santa Maria De Garona nuclear power plant,nuclear,Spain,,retired,466.0,1971.0,Nuclenor SA,42.77501,-3.20701,https://gem.wiki/Santa_Maria_De_Garona_nuclear_power_plant
+972,Sayago nuclear power plant,nuclear,Spain,1,cancelled,1075.0,,Iberduero SA,41.48401,-6.0802,https://gem.wiki/Sayago_nuclear_power_plant
+973,Trillo nuclear power plant,nuclear,Spain,1,operating,1066.0,1988.0,Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+974,Trillo nuclear power plant,nuclear,Spain,2,cancelled,1000.0,,,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+975,Valdecaballeros nuclear power plant,nuclear,Spain,1,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+976,Valdecaballeros nuclear power plant,nuclear,Spain,2,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+977,Vandellos nuclear power plant,nuclear,Spain,1,retired,500.0,1972.0,Hispano-Francesa De Energia Nuclear SA,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+978,Vandellos nuclear power plant,nuclear,Spain,2,operating,1087.0,1988.0,Endesa; Iberdrola,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+962,Almaraz nuclear power plant,nuclear,Spain,1,operating,1049.0,1983.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+963,Almaraz nuclear power plant,nuclear,Spain,2,operating,1044.0,1984.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+964,Ascó nuclear power plant,nuclear,Spain,1,operating,1033.0,1984.0,Endesa SA,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+965,Ascó nuclear power plant,nuclear,Spain,2,operating,1027.0,1986.0,Endesa; Iberdrola,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+966,Cofrentes nuclear power plant,nuclear,Spain,,operating,1102.0,1985.0,Iberdrola SA,39.2134,-1.0509,https://gem.wiki/Cofrentes_nuclear_power_plant
+967,Jose Cabrera nuclear power plant,nuclear,Spain,1,retired,150.0,1969.0,Union Fenosa Generation SA,40.3478,-2.8889,https://gem.wiki/Jose_Cabrera_nuclear_power_plant
+968,Lemóniz nuclear power plant,nuclear,Spain,1,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+969,Lemóniz nuclear power plant,nuclear,Spain,2,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+970,Regodola nuclear power plant,nuclear,Spain,1,cancelled,1000.0,,Fenosa [60%]; Hidroeléctrica del Cantábrico [20%]; Electra de Viesgo [20%],43.6893,-7.50301,https://gem.wiki/Regodola_nuclear_power_plant
+971,Santa Maria De Garona nuclear power plant,nuclear,Spain,,retired,466.0,1971.0,Nuclenor SA,42.77501,-3.20701,https://gem.wiki/Santa_Maria_De_Garona_nuclear_power_plant
+972,Sayago nuclear power plant,nuclear,Spain,1,cancelled,1075.0,,Iberduero SA,41.48401,-6.0802,https://gem.wiki/Sayago_nuclear_power_plant
+973,Trillo nuclear power plant,nuclear,Spain,1,operating,1066.0,1988.0,Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+974,Trillo nuclear power plant,nuclear,Spain,2,cancelled,1000.0,,,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+975,Valdecaballeros nuclear power plant,nuclear,Spain,1,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+976,Valdecaballeros nuclear power plant,nuclear,Spain,2,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+977,Vandellos nuclear power plant,nuclear,Spain,1,retired,500.0,1972.0,Hispano-Francesa De Energia Nuclear SA,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+978,Vandellos nuclear power plant,nuclear,Spain,2,operating,1087.0,1988.0,Endesa; Iberdrola,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+962,Almaraz nuclear power plant,nuclear,Spain,1,operating,1049.0,1983.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+963,Almaraz nuclear power plant,nuclear,Spain,2,operating,1044.0,1984.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+964,Ascó nuclear power plant,nuclear,Spain,1,operating,1033.0,1984.0,Endesa SA,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+965,Ascó nuclear power plant,nuclear,Spain,2,operating,1027.0,1986.0,Endesa; Iberdrola,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+966,Cofrentes nuclear power plant,nuclear,Spain,,operating,1102.0,1985.0,Iberdrola SA,39.2134,-1.0509,https://gem.wiki/Cofrentes_nuclear_power_plant
+967,Jose Cabrera nuclear power plant,nuclear,Spain,1,retired,150.0,1969.0,Union Fenosa Generation SA,40.3478,-2.8889,https://gem.wiki/Jose_Cabrera_nuclear_power_plant
+968,Lemóniz nuclear power plant,nuclear,Spain,1,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+969,Lemóniz nuclear power plant,nuclear,Spain,2,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+970,Regodola nuclear power plant,nuclear,Spain,1,cancelled,1000.0,,Fenosa [60%]; Hidroeléctrica del Cantábrico [20%]; Electra de Viesgo [20%],43.6893,-7.50301,https://gem.wiki/Regodola_nuclear_power_plant
+971,Santa Maria De Garona nuclear power plant,nuclear,Spain,,retired,466.0,1971.0,Nuclenor SA,42.77501,-3.20701,https://gem.wiki/Santa_Maria_De_Garona_nuclear_power_plant
+972,Sayago nuclear power plant,nuclear,Spain,1,cancelled,1075.0,,Iberduero SA,41.48401,-6.0802,https://gem.wiki/Sayago_nuclear_power_plant
+973,Trillo nuclear power plant,nuclear,Spain,1,operating,1066.0,1988.0,Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+974,Trillo nuclear power plant,nuclear,Spain,2,cancelled,1000.0,,,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+975,Valdecaballeros nuclear power plant,nuclear,Spain,1,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+976,Valdecaballeros nuclear power plant,nuclear,Spain,2,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+977,Vandellos nuclear power plant,nuclear,Spain,1,retired,500.0,1972.0,Hispano-Francesa De Energia Nuclear SA,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+978,Vandellos nuclear power plant,nuclear,Spain,2,operating,1087.0,1988.0,Endesa; Iberdrola,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+962,Almaraz nuclear power plant,nuclear,Spain,1,operating,1049.0,1983.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+963,Almaraz nuclear power plant,nuclear,Spain,2,operating,1044.0,1984.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+964,Ascó nuclear power plant,nuclear,Spain,1,operating,1033.0,1984.0,Endesa SA,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+965,Ascó nuclear power plant,nuclear,Spain,2,operating,1027.0,1986.0,Endesa; Iberdrola,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+966,Cofrentes nuclear power plant,nuclear,Spain,,operating,1102.0,1985.0,Iberdrola SA,39.2134,-1.0509,https://gem.wiki/Cofrentes_nuclear_power_plant
+967,Jose Cabrera nuclear power plant,nuclear,Spain,1,retired,150.0,1969.0,Union Fenosa Generation SA,40.3478,-2.8889,https://gem.wiki/Jose_Cabrera_nuclear_power_plant
+968,Lemóniz nuclear power plant,nuclear,Spain,1,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+969,Lemóniz nuclear power plant,nuclear,Spain,2,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+970,Regodola nuclear power plant,nuclear,Spain,1,cancelled,1000.0,,Fenosa [60%]; Hidroeléctrica del Cantábrico [20%]; Electra de Viesgo [20%],43.6893,-7.50301,https://gem.wiki/Regodola_nuclear_power_plant
+971,Santa Maria De Garona nuclear power plant,nuclear,Spain,,retired,466.0,1971.0,Nuclenor SA,42.77501,-3.20701,https://gem.wiki/Santa_Maria_De_Garona_nuclear_power_plant
+972,Sayago nuclear power plant,nuclear,Spain,1,cancelled,1075.0,,Iberduero SA,41.48401,-6.0802,https://gem.wiki/Sayago_nuclear_power_plant
+973,Trillo nuclear power plant,nuclear,Spain,1,operating,1066.0,1988.0,Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+974,Trillo nuclear power plant,nuclear,Spain,2,cancelled,1000.0,,,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+975,Valdecaballeros nuclear power plant,nuclear,Spain,1,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+976,Valdecaballeros nuclear power plant,nuclear,Spain,2,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+977,Vandellos nuclear power plant,nuclear,Spain,1,retired,500.0,1972.0,Hispano-Francesa De Energia Nuclear SA,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+978,Vandellos nuclear power plant,nuclear,Spain,2,operating,1087.0,1988.0,Endesa; Iberdrola,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+962,Almaraz nuclear power plant,nuclear,Spain,1,operating,1049.0,1983.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+963,Almaraz nuclear power plant,nuclear,Spain,2,operating,1044.0,1984.0,Iberdrola; Endesa; Gas Natural,39.807,-5.6986,https://gem.wiki/Almaraz_nuclear_power_plant
+964,Ascó nuclear power plant,nuclear,Spain,1,operating,1033.0,1984.0,Endesa SA,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+965,Ascó nuclear power plant,nuclear,Spain,2,operating,1027.0,1986.0,Endesa; Iberdrola,41.1993,0.5694,https://gem.wiki/Ascó_nuclear_power_plant
+966,Cofrentes nuclear power plant,nuclear,Spain,,operating,1102.0,1985.0,Iberdrola SA,39.2134,-1.0509,https://gem.wiki/Cofrentes_nuclear_power_plant
+967,Jose Cabrera nuclear power plant,nuclear,Spain,1,retired,150.0,1969.0,Union Fenosa Generation SA,40.3478,-2.8889,https://gem.wiki/Jose_Cabrera_nuclear_power_plant
+968,Lemóniz nuclear power plant,nuclear,Spain,1,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+969,Lemóniz nuclear power plant,nuclear,Spain,2,cancelled,930.0,,Iberdrola SA,43.4333,-2.8726,https://gem.wiki/Lemóniz_nuclear_power_plant
+970,Regodola nuclear power plant,nuclear,Spain,1,cancelled,1000.0,,Fenosa [60%]; Hidroeléctrica del Cantábrico [20%]; Electra de Viesgo [20%],43.6893,-7.50301,https://gem.wiki/Regodola_nuclear_power_plant
+971,Santa Maria De Garona nuclear power plant,nuclear,Spain,,retired,466.0,1971.0,Nuclenor SA,42.77501,-3.20701,https://gem.wiki/Santa_Maria_De_Garona_nuclear_power_plant
+972,Sayago nuclear power plant,nuclear,Spain,1,cancelled,1075.0,,Iberduero SA,41.48401,-6.0802,https://gem.wiki/Sayago_nuclear_power_plant
+973,Trillo nuclear power plant,nuclear,Spain,1,operating,1066.0,1988.0,Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+974,Trillo nuclear power plant,nuclear,Spain,2,cancelled,1000.0,,,40.7016,-2.6227,https://gem.wiki/Trillo_nuclear_power_plant
+975,Valdecaballeros nuclear power plant,nuclear,Spain,1,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+976,Valdecaballeros nuclear power plant,nuclear,Spain,2,cancelled,975.0,,,39.29601,-5.1866,https://gem.wiki/Valdecaballeros_nuclear_power_plant
+977,Vandellos nuclear power plant,nuclear,Spain,1,retired,500.0,1972.0,Hispano-Francesa De Energia Nuclear SA,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant
+978,Vandellos nuclear power plant,nuclear,Spain,2,operating,1087.0,1988.0,Endesa; Iberdrola,40.9511,0.8662,https://gem.wiki/Vandellos_nuclear_power_plant

@@ -1,0 +1,1358 @@
+,class,type,date,value,percentage,aacc,comunidad
+0,Hidráulica,Renovable,2014-01-01,303.396,0.0004205498316037501,8742,Canarias
+1,Motores diésel,No-Renovable,2014-01-01,181768.586,0.2519570074528068,8742,Canarias
+2,Turbina de gas,No-Renovable,2014-01-01,26245.404,0.03637984756744449,8742,Canarias
+3,Turbina de vapor,No-Renovable,2014-01-01,216697.507,0.3003734395898511,8742,Canarias
+4,Ciclo combinado,No-Renovable,2014-01-01,247173.544,0.3426175437583294,8742,Canarias
+5,Hidroeólica,Renovable,2014-06-01,2.02,2.9430820004828873e-06,8742,Canarias
+6,Eólica,Renovable,2014-01-01,29456.386,0.04083072345039177,8742,Canarias
+7,Solar fotovoltaica,Renovable,2014-01-01,18995.297,0.02633017229829404,8742,Canarias
+8,Otras renovables,Renovable,2014-01-01,786.872,0.001090716051278547,8742,Canarias
+9,Generación total,Generación total,2014-01-01,721426.9920000001,1.0,8742,Canarias
+10,Carbón,No-Renovable,2014-01-01,183089.327,0.5613371140288812,8743,Baleares
+11,Motores diésel,No-Renovable,2014-01-01,57672.186,0.17681827214852808,8743,Baleares
+12,Turbina de gas,No-Renovable,2014-01-01,28626.27,0.08776583567436207,8743,Baleares
+13,Ciclo combinado,No-Renovable,2014-01-01,32275.425,0.09895385067178494,8743,Baleares
+14,Eólica,Renovable,2014-01-01,586.691,0.0017987473009102185,8743,Baleares
+15,Solar fotovoltaica,Renovable,2014-01-01,5827.915,0.017867917483281957,8743,Baleares
+16,Otras renovables,Renovable,2014-01-01,123.037,0.0003772215214859109,8743,Baleares
+17,Cogeneración,No-Renovable,2014-01-01,2086.281,0.006396369328471497,8743,Baleares
+18,Residuos no renovables,No-Renovable,2014-01-01,7939.653,0.02434233592114711,8743,Baleares
+19,Residuos renovables,Renovable,2014-01-01,7939.653,0.02434233592114711,8743,Baleares
+20,Generación total,Generación total,2014-01-01,326166.43799999997,1.0,8743,Baleares
+21,Motores diésel,No-Renovable,2014-01-01,18803.239,0.9998643502878635,8744,Ceuta
+22,Turbina de gas,No-Renovable,2014-01-01,2.551,0.00013564971213652816,8744,Ceuta
+23,Generación total,Generación total,2014-01-01,18805.79,1.0,8744,Ceuta
+24,Motores diésel,No-Renovable,2014-01-01,17113.974,0.9507976734588932,8745,Melilla
+25,Turbina de gas,No-Renovable,2014-01-01,3.26,0.00018111517614062005,8745,Melilla
+26,Solar fotovoltaica,Renovable,2014-01-01,4.479,0.0002488389183846127,8745,Melilla
+27,Residuos no renovables,No-Renovable,2014-01-01,438.9415,0.024386186223290793,8745,Melilla
+28,Residuos renovables,Renovable,2014-01-01,438.9415,0.024386186223290793,8745,Melilla
+29,Generación total,Generación total,2014-01-01,17999.595999999998,1.0,8745,Melilla
+30,Hidráulica,Renovable,2014-01-01,57178.461,0.021807240903962247,4,Andalucía
+31,Turbinación bombeo,No-Renovable,2014-01-01,43873.917,0.016733033045773033,4,Andalucía
+32,Carbón,No-Renovable,2014-01-01,683384.933,0.2606355540781186,4,Andalucía
+33,Ciclo combinado,No-Renovable,2014-01-01,346973.355,0.1323318502703494,4,Andalucía
+34,Eólica,Renovable,2014-01-01,718193.982,0.2739113454146645,4,Andalucía
+35,Solar fotovoltaica,Renovable,2014-01-01,77632.84,0.02960831778838462,4,Andalucía
+36,Solar térmica,Renovable,2014-01-01,42489.531,0.016205043336395008,4,Andalucía
+37,Otras renovables,Renovable,2014-01-01,152927.1,0.05832472669112806,4,Andalucía
+38,Cogeneración,No-Renovable,2014-01-01,499340.165,0.19044288847122445,4,Andalucía
+39,Generación total,Generación total,2014-01-01,2621994.284,1.0,4,Andalucía
+40,Hidráulica,Renovable,2014-01-01,307350.643,0.23969579640367902,5,Aragón
+41,Turbinación bombeo,No-Renovable,2014-01-01,36019.861,0.028091072738523012,5,Aragón
+42,Carbón,No-Renovable,2014-01-01,168347.956,0.1312907531036189,5,Aragón
+43,Ciclo combinado,No-Renovable,2014-01-01,17808.213,0.013888221465543998,5,Aragón
+44,Eólica,Renovable,2014-01-01,428104.51,0.3338689988309437,5,Aragón
+45,Solar fotovoltaica,Renovable,2014-01-01,12116.155,0.009449114515356384,5,Aragón
+46,Otras renovables,Renovable,2014-01-01,5328.392,0.004155492083974564,5,Aragón
+47,Cogeneración,No-Renovable,2014-01-01,299517.95,0.23358725676213185,5,Aragón
+48,Residuos no renovables,Renovable,2014-01-01,7659.274,0.005973294096228692,5,Aragón
+49,Generación total,Generación total,2014-01-01,1282252.954,1.0,5,Aragón
+50,Hidráulica,Renovable,2014-01-01,40162.514,0.18788377982409832,6,Cantabria
+51,Turbinación bombeo,No-Renovable,2014-01-01,68558.01,0.3207204124726437,6,Cantabria
+52,Eólica,Renovable,2014-01-01,12641.086,0.059136114307024985,6,Cantabria
+53,Solar fotovoltaica,Renovable,2014-01-01,155.628,0.0007280414987583887,6,Cantabria
+54,Otras renovables,Renovable,2014-01-01,7073.671,0.03309125630711537,6,Cantabria
+55,Cogeneración,No-Renovable,2014-01-01,85171.631,0.3984403955903593,6,Cantabria
+56,Generación total,Generación total,2014-01-01,213762.53999999998,1.0,6,Cantabria
+57,Hidráulica,Renovable,2014-01-01,96235.832,0.04053990526397864,7,Castilla_la_Mancha
+58,Turbinación bombeo,No-Renovable,2014-01-01,7411.98,0.003122339785232016,7,Castilla_la_Mancha
+59,Nuclear,No-Renovable,2014-01-01,738184.851,0.310964671940948,7,Castilla_la_Mancha
+60,Carbón,No-Renovable,2014-01-01,18014.26,0.007588612044219452,7,Castilla_la_Mancha
+61,Ciclo combinado,No-Renovable,2014-01-01,88263.147,0.03718136522870837,7,Castilla_la_Mancha
+62,Eólica,Renovable,2014-01-01,1230465.306,0.5183406834977277,7,Castilla_la_Mancha
+63,Solar fotovoltaica,Renovable,2014-01-01,73383.005,0.030913018663215493,7,Castilla_la_Mancha
+64,Solar térmica,Renovable,2014-01-01,7935.708,0.003342963258452396,7,Castilla_la_Mancha
+65,Otras renovables,Renovable,2014-01-01,20416.378,0.008600518255545166,7,Castilla_la_Mancha
+66,Cogeneración,No-Renovable,2014-01-01,93543.921,0.039405922061972735,7,Castilla_la_Mancha
+67,Generación total,Generación total,2014-01-01,2373854.3880000003,1.0,7,Castilla_la_Mancha
+68,Hidráulica,Renovable,2014-01-01,1055427.61,0.3200783729575828,8,Castilla_León
+69,Turbinación bombeo,No-Renovable,2014-01-01,91564.342,0.027768617506881085,8,Castilla_León
+70,Nuclear,No-Renovable,2014-01-01,-1824.338,0.0005532649830571427,8,Castilla_León
+71,Carbón,No-Renovable,2014-01-01,184638.987,0.055995262947021326,8,Castilla_León
+72,Eólica,Renovable,2014-01-01,1672953.906,0.5073548950131339,8,Castilla_León
+73,Solar fotovoltaica,Renovable,2014-01-01,29646.597,0.008990890935181385,8,Castilla_León
+74,Otras renovables,Renovable,2014-01-01,23594.166,0.007155376828327543,8,Castilla_León
+75,Cogeneración,No-Renovable,2014-01-01,237753.75,0.0721033188288147,8,Castilla_León
+76,Generación total,Generación total,2014-01-01,3293755.0200000005,1.0,8,Castilla_León
+77,Hidráulica,Renovable,2014-01-01,350750.472,0.09039133896574914,9,Cataluña
+78,Turbinación bombeo,No-Renovable,2014-01-01,37561.696,0.009679964152020937,9,Cataluña
+79,Nuclear,No-Renovable,2014-01-01,2229470.917,0.5745533576155146,9,Cataluña
+80,Fuel + Gas,No-Renovable,2014-01-01,-148.739,3.833128802297538e-05,9,Cataluña
+81,Ciclo combinado,No-Renovable,2014-01-01,384296.97,0.09903655291098318,9,Cataluña
+82,Eólica,Renovable,2014-01-01,318156.911,0.08199170487929287,9,Cataluña
+83,Solar fotovoltaica,Renovable,2014-01-01,19042.458,0.0049074011675714615,9,Cataluña
+84,Solar térmica,Renovable,2014-01-01,3609.15,0.0009301082309826043,9,Cataluña
+85,Otras renovables,Renovable,2014-01-01,26278.179,0.006772107167375759,9,Cataluña
+86,Cogeneración,No-Renovable,2014-01-01,501846.001,0.12932992428017795,9,Cataluña
+87,Residuos no renovables,Renovable,2014-01-01,4596.6865,0.0011846046711543213,9,Cataluña
+88,Residuos renovables,Renovable,2014-01-01,4596.6865,0.0011846046711543213,9,Cataluña
+89,Generación total,Generación total,2014-01-01,3880057.3879999993,1.0,9,Cataluña
+90,Hidráulica,Renovable,2014-01-01,56137.321,0.11587315561599648,10,País_Vasco
+91,Ciclo combinado,No-Renovable,2014-01-01,165356.45,0.34131257640454093,10,País_Vasco
+92,Eólica,Renovable,2014-01-01,45514.873,0.09394733963117542,10,País_Vasco
+93,Solar fotovoltaica,Renovable,2014-01-01,971.716,0.002005720922851905,10,País_Vasco
+94,Otras renovables,Renovable,2014-01-01,6636.204,0.013697801838308212,10,País_Vasco
+95,Cogeneración,No-Renovable,2014-01-01,145383.271,0.3000858980168574,10,País_Vasco
+96,Residuos no renovables,Renovable,2014-01-01,37318.131,0.07702842821197581,10,País_Vasco
+97,Residuos renovables,Renovable,2014-01-01,27154.22,0.05604907935829364,10,País_Vasco
+98,Generación total,Generación total,2014-01-01,484472.1860000001,1.0,10,País_Vasco
+99,Hidráulica,Renovable,2014-01-01,296233.85,0.27292868971188355,11,Asturias
+100,Turbinación bombeo,No-Renovable,2014-01-01,6490.721,0.005980086265683029,11,Asturias
+101,Carbón,No-Renovable,2014-01-01,448107.816,0.41285450353001124,11,Asturias
+102,Ciclo combinado,No-Renovable,2014-01-01,18374.34,0.01692880317533142,11,Asturias
+103,Eólica,Renovable,2014-01-01,194037.022,0.1787718391063544,11,Asturias
+104,Solar fotovoltaica,Renovable,2014-01-01,29.743,2.7403073680136667e-05,11,Asturias
+105,Otras renovables,Renovable,2014-01-01,49040.661,0.04518255881066485,11,Asturias
+106,Cogeneración,No-Renovable,2014-01-01,31830.35,0.02932620873195502,11,Asturias
+107,Residuos no renovables,Renovable,2014-01-01,41244.689,0.037999907594436416,11,Asturias
+108,Generación total,Generación total,2014-01-01,1085389.1919999998,1.0,11,Asturias
+109,Hidráulica,Renovable,2014-01-01,12442.591,0.10033492306341307,13,Madrid
+110,Solar fotovoltaica,Renovable,2014-01-01,3679.91,0.029674164065208314,13,Madrid
+111,Otras renovables,Renovable,2014-01-01,25262.01,0.20370852258803424,13,Madrid
+112,Cogeneración,No-Renovable,2014-01-01,82626.059,0.6662823902833444,13,Madrid
+113,Residuos no renovables,Renovable,2014-05-01,4638.9105,0.046188814135822126,13,Madrid
+114,Residuos renovables,Renovable,2014-05-01,4638.9105,0.046188814135822126,13,Madrid
+115,Generación total,Generación total,2014-01-01,124010.56999999999,1.0,13,Madrid
+116,Hidráulica,Renovable,2014-01-01,75338.758,0.1801248025333759,14,Navarra
+117,Ciclo combinado,No-Renovable,2014-01-01,22374.186,0.05349365906848403,14,Navarra
+118,Eólica,Renovable,2014-01-01,200122.784,0.4784665676387901,14,Navarra
+119,Solar fotovoltaica,Renovable,2014-01-01,10892.867,0.02604337487747444,14,Navarra
+120,Otras renovables,Renovable,2014-01-01,26235.772,0.06272619002838715,14,Navarra
+121,Cogeneración,No-Renovable,2014-01-01,83294.29,0.1991454058534884,14,Navarra
+122,Generación total,Generación total,2014-01-01,418258.657,1.0,14,Navarra
+123,Hidráulica,Renovable,2014-01-01,34110.921,0.01859125490752753,15,Valenciana
+124,Turbinación bombeo,No-Renovable,2014-01-01,132070.227,0.07198138261502891,15,Valenciana
+125,Nuclear,No-Renovable,2014-01-01,781846.21,0.42612458891374694,15,Valenciana
+126,Fuel + Gas,No-Renovable,2014-02-01,6.254,3.981550009116757e-06,15,Valenciana
+127,Ciclo combinado,No-Renovable,2014-01-01,289636.7,0.15785881947529587,15,Valenciana
+128,Eólica,Renovable,2014-01-01,399713.468,0.21785324921481444,15,Valenciana
+129,Solar fotovoltaica,Renovable,2014-01-01,28311.17,0.015430254087843188,15,Valenciana
+130,Solar térmica,Renovable,2014-01-01,2603.24,0.0014188270796168757,15,Valenciana
+131,Otras renovables,Renovable,2014-01-01,3450.038,0.0018803519230294738,15,Valenciana
+132,Cogeneración,No-Renovable,2014-01-01,128228.163,0.0698873672938057,15,Valenciana
+133,Residuos no renovables,Renovable,2014-01-01,34813.0,0.018973904489291153,15,Valenciana
+134,Generación total,Generación total,2014-01-01,1834783.1369999999,1.0,15,Valenciana
+135,Hidráulica,Renovable,2014-01-01,199719.418,0.1854782480619043,16,Extremadura
+136,Turbinación bombeo,No-Renovable,2014-01-01,13253.187,0.012308156766192884,16,Extremadura
+137,Nuclear,No-Renovable,2014-01-01,778385.139,0.7228816974578899,16,Extremadura
+138,Solar fotovoltaica,Renovable,2014-01-01,47302.625,0.043929669441201934,16,Extremadura
+139,Solar térmica,Renovable,2014-01-01,21845.097,0.02028741301610623,16,Extremadura
+140,Otras renovables,Renovable,2014-01-01,11212.621,0.01041309513160166,16,Extremadura
+141,Cogeneración,No-Renovable,2014-01-01,5062.722,0.004701720125103009,16,Extremadura
+142,Generación total,Generación total,2014-01-01,1076780.8090000001,1.0,16,Extremadura
+143,Hidráulica,Renovable,2014-01-01,1650844.29,0.44878472957897136,17,Galicia
+144,Turbinación bombeo,No-Renovable,2014-01-01,6874.686,0.0018688946717381443,17,Galicia
+145,Carbón,No-Renovable,2014-01-01,607576.243,0.1651705988051498,17,Galicia
+146,Ciclo combinado,No-Renovable,2014-01-01,60962.485,0.016572751598024484,17,Galicia
+147,Eólica,Renovable,2014-01-01,1130295.238,0.30727261547497553,17,Galicia
+148,Solar fotovoltaica,Renovable,2014-01-01,504.864,0.00013724810697570864,17,Galicia
+149,Otras renovables,Renovable,2014-01-01,18628.922,0.005064303019225241,17,Galicia
+150,Cogeneración,No-Renovable,2014-01-01,184369.943,0.05012127158991195,17,Galicia
+151,Residuos no renovables,Renovable,2014-01-01,9210.147,0.002503793577513949,17,Galicia
+152,Residuos renovables,Renovable,2014-01-01,9210.147,0.002503793577513949,17,Galicia
+153,Generación total,Generación total,2014-01-01,3678476.9649999994,1.0,17,Galicia
+154,Hidráulica,Renovable,2014-01-01,19343.696,0.12310064364435051,20,La_Rioja
+155,Ciclo combinado,No-Renovable,2014-01-01,11752.977,0.07479434299614965,20,La_Rioja
+156,Eólica,Renovable,2014-01-01,108580.941,0.6909943024647022,20,La_Rioja
+157,Solar fotovoltaica,Renovable,2014-01-01,4539.073,0.028886041625586605,20,La_Rioja
+158,Otras renovables,Renovable,2014-01-01,746.457,0.004750350561383458,20,La_Rioja
+159,Cogeneración,No-Renovable,2014-01-01,12174.101,0.07747431870782767,20,La_Rioja
+160,Generación total,Generación total,2014-01-01,157137.245,1.0,20,La_Rioja
+161,Hidráulica,Renovable,2014-01-01,9813.063,0.023150477512866814,21,Murcia
+162,Ciclo combinado,No-Renovable,2014-01-01,124740.781,0.29428208557082985,21,Murcia
+163,Eólica,Renovable,2014-01-01,82138.578,0.1937771420531853,21,Murcia
+164,Solar fotovoltaica,Renovable,2014-01-01,44482.386,0.10494057531391184,21,Murcia
+165,Solar térmica,Renovable,2014-01-01,1317.929,0.003109190848775255,21,Murcia
+166,Otras renovables,Renovable,2014-01-01,3155.107,0.00744336744339547,21,Murcia
+167,Cogeneración,No-Renovable,2014-01-01,158233.823,0.37329716125703544,21,Murcia
+168,Generación total,Generación total,2014-01-01,423881.667,1.0,21,Murcia
+169,Hidráulica,Renovable,2015-01-01,302.963,0.0004159967031681486,8742,Canarias
+170,Motores diésel,No-Renovable,2015-01-01,182931.25,0.25118181727282995,8742,Canarias
+171,Turbina de gas,No-Renovable,2015-01-01,27866.816,0.03826376020766039,8742,Canarias
+172,Turbina de vapor,No-Renovable,2015-01-01,202134.491,0.2775496738960593,8742,Canarias
+173,Ciclo combinado,No-Renovable,2015-01-01,254475.058,0.34941819683104336,8742,Canarias
+174,Hidroeólica,Renovable,2015-01-01,384.989,0.000528626118555739,8742,Canarias
+175,Eólica,Renovable,2015-01-01,41468.698,0.05694042392198254,8742,Canarias
+176,Solar fotovoltaica,Renovable,2015-01-01,18338.96,0.025181117494652978,8742,Canarias
+177,Otras renovables,Renovable,2015-01-01,378.989,0.0005203875540478324,8742,Canarias
+178,Generación total,Generación total,2015-01-01,728282.2139999998,1.0,8742,Canarias
+179,Carbón,No-Renovable,2015-01-01,180751.809,0.5324997943378225,8743,Baleares
+180,Motores diésel,No-Renovable,2015-01-01,56110.774,0.16530388149606864,8743,Baleares
+181,Turbina de gas,No-Renovable,2015-01-01,36805.256,0.10842929516988074,8743,Baleares
+182,Ciclo combinado,No-Renovable,2015-01-01,36581.086,0.10776888419221407,8743,Baleares
+183,Eólica,Renovable,2015-01-01,602.192,0.0017740741734534008,8743,Baleares
+184,Solar fotovoltaica,Renovable,2015-01-01,6878.955,0.020265590386202636,8743,Baleares
+185,Otras renovables,Renovable,2015-01-01,229.395,0.000675803971190821,8743,Baleares
+186,Cogeneración,No-Renovable,2015-01-01,3153.758,0.009291057697747645,8743,Baleares
+187,Residuos no renovables,No-Renovable,2015-01-01,9163.4615,0.02699580928770983,8743,Baleares
+188,Residuos renovables,Renovable,2015-01-01,9163.4615,0.02699580928770983,8743,Baleares
+189,Generación total,Generación total,2015-01-01,339440.148,1.0,8743,Baleares
+190,Motores diésel,No-Renovable,2015-01-01,18698.285,0.999990854859888,8744,Ceuta
+191,Turbina de gas,No-Renovable,2015-01-01,0.171,9.145140112103375e-06,8744,Ceuta
+192,Generación total,Generación total,2015-01-01,18698.456,1.0,8744,Ceuta
+193,Motores diésel,No-Renovable,2015-01-01,17307.293,0.938606865689676,8745,Melilla
+194,Turbina de gas,No-Renovable,2015-01-01,314.118,0.017035206570820152,8745,Melilla
+195,Solar fotovoltaica,Renovable,2015-01-01,4.798,0.00026020451272068166,8745,Melilla
+196,Residuos no renovables,No-Renovable,2015-01-01,406.5665,0.02204886161339163,8745,Melilla
+197,Residuos renovables,Renovable,2015-01-01,406.5665,0.02204886161339163,8745,Melilla
+198,Generación total,Generación total,2015-01-01,18439.342,1.0,8745,Melilla
+199,Hidráulica,Renovable,2015-01-01,37843.156,0.012335104095205673,4,Andalucía
+200,Turbinación bombeo,No-Renovable,2015-01-01,31478.777,0.010260613334806592,4,Andalucía
+201,Carbón,No-Renovable,2015-01-01,1126723.635,0.36725936188444536,4,Andalucía
+202,Ciclo combinado,No-Renovable,2015-01-01,493423.153,0.1608329378035911,4,Andalucía
+203,Eólica,Renovable,2015-01-01,609617.02,0.198706719912818,4,Andalucía
+204,Solar fotovoltaica,Renovable,2015-01-01,104183.797,0.033959059361454325,4,Andalucía
+205,Solar térmica,Renovable,2015-01-01,81452.689,0.02654977818576796,4,Andalucía
+206,Otras renovables,Renovable,2015-01-01,122853.818,0.04004461555805367,4,Andalucía
+207,Cogeneración,No-Renovable,2015-01-01,460347.477,0.15005180986385752,4,Andalucía
+208,Generación total,Generación total,2015-01-01,3067923.5219999994,1.0,4,Andalucía
+209,Hidráulica,Renovable,2015-01-01,231539.73,0.15053076384210246,5,Aragón
+210,Turbinación bombeo,No-Renovable,2015-01-01,29167.832,0.01896286235877583,5,Aragón
+211,Carbón,No-Renovable,2015-01-01,465086.606,0.30236643211906206,5,Aragón
+212,Ciclo combinado,No-Renovable,2015-01-01,36181.937,0.02352293757057084,5,Aragón
+213,Eólica,Renovable,2015-01-01,520478.961,0.3383786254008064,5,Aragón
+214,Solar fotovoltaica,Renovable,2015-01-01,16179.925,0.010519043402002453,5,Aragón
+215,Otras renovables,Renovable,2015-01-01,4482.467,0.0029141831572793895,5,Aragón
+216,Cogeneración,No-Renovable,2015-01-01,201553.154,0.1310356120152896,5,Aragón
+217,Residuos no renovables,Renovable,2015-01-01,33484.939,0.021769540134110917,5,Aragón
+218,Generación total,Generación total,2015-01-01,1538155.5510000002,1.0,5,Aragón
+219,Hidráulica,Renovable,2015-01-01,30149.728,0.18518331547767208,6,Cantabria
+220,Turbinación bombeo,No-Renovable,2015-01-01,50204.43,0.3083617470468292,6,Cantabria
+221,Eólica,Renovable,2015-01-01,4938.689,0.030334031641449932,6,Cantabria
+222,Solar fotovoltaica,Renovable,2015-01-01,79.094,0.00048580501802175446,6,Cantabria
+223,Otras renovables,Renovable,2015-01-01,5132.423,0.0315239695553426,6,Cantabria
+224,Cogeneración,No-Renovable,2015-01-01,72305.811,0.44411113126068447,6,Cantabria
+225,Residuos no renovables,Renovable,2015-03-01,3445.1475,0.0192047771055768,6,Cantabria
+226,Residuos renovables,Renovable,2015-03-01,3445.1475,0.0192047771055768,6,Cantabria
+227,Generación total,Generación total,2015-01-01,162810.175,1.0,6,Cantabria
+228,Hidráulica,Renovable,2015-01-01,65596.787,0.030819201745907604,7,Castilla_la_Mancha
+229,Turbinación bombeo,No-Renovable,2015-01-01,2429.59,0.001141489206930816,7,Castilla_la_Mancha
+230,Nuclear,No-Renovable,2015-01-01,736096.046,0.3458384714184078,7,Castilla_la_Mancha
+231,Carbón,No-Renovable,2015-01-01,155689.323,0.07314719020034889,7,Castilla_la_Mancha
+232,Ciclo combinado,No-Renovable,2015-01-01,115920.162,0.05446252815852539,7,Castilla_la_Mancha
+233,Eólica,Renovable,2015-01-01,843910.618,0.39649276711762677,7,Castilla_la_Mancha
+234,Solar fotovoltaica,Renovable,2015-01-01,119605.298,0.05619390792633486,7,Castilla_la_Mancha
+235,Solar térmica,Renovable,2015-01-01,28687.751,0.013478306272917951,7,Castilla_la_Mancha
+236,Otras renovables,Renovable,2015-01-01,21508.804,0.010105436563366809,7,Castilla_la_Mancha
+237,Cogeneración,No-Renovable,2015-01-01,38994.493,0.018320701389633338,7,Castilla_la_Mancha
+238,Generación total,Generación total,2015-01-01,2128438.8719999995,1.0,7,Castilla_la_Mancha
+239,Hidráulica,Renovable,2015-01-01,637510.904,0.23554570097313227,8,Castilla_León
+240,Turbinación bombeo,No-Renovable,2015-01-01,45097.203,0.01666238526417839,8,Castilla_León
+241,Nuclear,No-Renovable,2015-01-01,-1922.414,0.0007102880128785422,8,Castilla_León
+242,Carbón,No-Renovable,2015-01-01,794903.778,0.29369876879031565,8,Castilla_León
+243,Eólica,Renovable,2015-01-01,1004888.307,0.37128325050894995,8,Castilla_León
+244,Solar fotovoltaica,Renovable,2015-01-01,44318.279,0.016374590657947156,8,Castilla_León
+245,Otras renovables,Renovable,2015-01-01,22498.831,0.008312803570448479,8,Castilla_León
+246,Cogeneración,No-Renovable,2015-01-01,155387.728,0.05741221222214955,8,Castilla_León
+247,Generación total,Generación total,2015-01-01,2702682.616,1.0,8,Castilla_León
+248,Hidráulica,Renovable,2015-01-01,374907.888,0.09308159994188135,9,Cataluña
+249,Turbinación bombeo,No-Renovable,2015-01-01,38072.762,0.009452651476798116,9,Cataluña
+250,Nuclear,No-Renovable,2015-01-01,2214169.982,0.5497309901034855,9,Cataluña
+251,Ciclo combinado,No-Renovable,2015-01-01,564853.85,0.1402411146156825,9,Cataluña
+252,Eólica,Renovable,2015-01-01,361144.539,0.0896644551271569,9,Cataluña
+253,Solar fotovoltaica,Renovable,2015-01-01,21770.057,0.005405038947555976,9,Cataluña
+254,Solar térmica,Renovable,2015-01-01,1137.14,0.0002823275101587379,9,Cataluña
+255,Otras renovables,Renovable,2015-01-01,15376.211,0.0038175839099015047,9,Cataluña
+256,Cogeneración,No-Renovable,2015-01-01,411771.521,0.10223405058146443,9,Cataluña
+257,Residuos no renovables,Renovable,2015-01-01,12264.827,0.0030450938929574745,9,Cataluña
+258,Residuos renovables,Renovable,2015-01-01,12264.827,0.0030450938929574745,9,Cataluña
+259,Generación total,Generación total,2015-01-01,4027733.6040000003,1.0,9,Cataluña
+260,Hidráulica,Renovable,2015-01-01,58225.095,0.107244108427656,10,País_Vasco
+261,Ciclo combinado,No-Renovable,2015-01-01,204588.413,0.3768289591766929,10,País_Vasco
+262,Eólica,Renovable,2015-01-01,28346.676,0.05221140462729402,10,País_Vasco
+263,Solar fotovoltaica,Renovable,2015-01-01,1170.339,0.002155633453463914,10,País_Vasco
+264,Otras renovables,Renovable,2015-01-01,1482.463,0.0027305309284937737,10,País_Vasco
+265,Cogeneración,No-Renovable,2015-01-01,188998.312,0.34811373798139716,10,País_Vasco
+266,Residuos no renovables,Renovable,2015-01-01,36575.877,0.06736867185574552,10,País_Vasco
+267,Residuos renovables,Renovable,2015-01-01,23533.978,0.043346953549256904,10,País_Vasco
+268,Generación total,Generación total,2015-01-01,542921.1529999999,1.0,10,País_Vasco
+269,Hidráulica,Renovable,2015-01-01,149692.167,0.09341992804057421,11,Asturias
+270,Turbinación bombeo,No-Renovable,2015-01-01,3032.911,0.0018927799166236,11,Asturias
+271,Carbón,No-Renovable,2015-01-01,1196302.417,0.7465887357412964,11,Asturias
+272,Ciclo combinado,No-Renovable,2015-01-01,45452.17,0.028365802538538615,11,Asturias
+273,Eólica,Renovable,2015-01-01,103831.214,0.06479901209690861,11,Asturias
+274,Solar fotovoltaica,Renovable,2015-01-01,29.522,1.842409773928807e-05,11,Asturias
+275,Otras renovables,Renovable,2015-01-01,20303.976,0.012671310829894967,11,Asturias
+276,Cogeneración,No-Renovable,2015-01-01,30144.901,0.018812837963727482,11,Asturias
+277,Residuos no renovables,Renovable,2015-01-01,53568.7,0.03343116877469686,11,Asturias
+278,Generación total,Generación total,2015-01-01,1602357.978,1.0,11,Asturias
+279,Hidráulica,Renovable,2015-01-01,9846.798,0.09743726811604221,13,Madrid
+280,Solar fotovoltaica,Renovable,2015-01-01,5302.247,0.05246745820890004,13,Madrid
+281,Otras renovables,Renovable,2015-01-01,14208.039,0.14059316596584842,13,Madrid
+282,Cogeneración,No-Renovable,2015-01-01,60865.055,0.6022795108554736,13,Madrid
+283,Residuos no renovables,Renovable,2015-01-01,5417.841,0.053611298426867925,13,Madrid
+284,Residuos renovables,Renovable,2015-01-01,5417.841,0.053611298426867925,13,Madrid
+285,Generación total,Generación total,2015-01-01,101057.821,1.0,13,Madrid
+286,Hidráulica,Renovable,2015-01-01,58806.542,0.12011661061296929,14,Navarra
+287,Ciclo combinado,No-Renovable,2015-01-01,56784.617,0.115986682723082,14,Navarra
+288,Eólica,Renovable,2015-01-01,267116.883,0.5456055318379556,14,Navarra
+289,Solar fotovoltaica,Renovable,2015-01-01,16080.194,0.032844957985779966,14,Navarra
+290,Otras renovables,Renovable,2015-01-01,27636.768,0.05645009530499124,14,Navarra
+291,Cogeneración,No-Renovable,2015-01-01,63153.762,0.128996121535222,14,Navarra
+292,Generación total,Generación total,2015-01-01,489578.76599999995,1.0,14,Navarra
+293,Hidráulica,Renovable,2015-01-01,27133.953,0.014912507358783344,15,Valenciana
+294,Turbinación bombeo,No-Renovable,2015-01-01,105543.78,0.05800564318526719,15,Valenciana
+295,Nuclear,No-Renovable,2015-01-01,790443.58,0.434418667396271,15,Valenciana
+296,Fuel + Gas,No-Renovable,2015-01-01,0.322,1.7696748312080575e-07,15,Valenciana
+297,Ciclo combinado,No-Renovable,2015-01-01,381840.09,0.2098549058444781,15,Valenciana
+298,Eólica,Renovable,2015-01-01,320828.78,0.17632379412831897,15,Valenciana
+299,Solar fotovoltaica,Renovable,2015-01-01,36561.775,0.020093929503662105,15,Valenciana
+300,Solar térmica,Renovable,2015-01-01,4567.882,0.002510455219667181,15,Valenciana
+301,Otras renovables,Renovable,2015-01-01,2882.717,0.0015843079877004963,15,Valenciana
+302,Cogeneración,No-Renovable,2015-01-01,116293.764,0.06391371030349369,15,Valenciana
+303,Residuos no renovables,Renovable,2015-01-01,33446.667,0.018381902104874878,15,Valenciana
+304,Generación total,Generación total,2015-01-01,1819543.3099999998,1.0,15,Valenciana
+305,Hidráulica,Renovable,2015-01-01,65475.528,0.037950022891982134,16,Extremadura
+306,Turbinación bombeo,No-Renovable,2015-01-01,7889.564,0.004572840319939965,16,Extremadura
+307,Nuclear,No-Renovable,2015-01-01,1501257.862,0.8701383855914556,16,Extremadura
+308,Solar fotovoltaica,Renovable,2015-01-01,66691.635,0.03865488606603854,16,Extremadura
+309,Solar térmica,Renovable,2015-01-01,59476.51,0.03447295478144451,16,Extremadura
+310,Otras renovables,Renovable,2015-01-01,20658.113,0.011973570663762402,16,Extremadura
+311,Cogeneración,No-Renovable,2015-01-01,3860.103,0.002237339685376938,16,Extremadura
+312,Generación total,Generación total,2015-01-01,1725309.3149999997,1.0,16,Extremadura
+313,Hidráulica,Renovable,2015-01-01,785057.535,0.2692100166643979,17,Galicia
+314,Turbinación bombeo,No-Renovable,2015-01-01,6104.182,0.00209323121513956,17,Galicia
+315,Carbón,No-Renovable,2015-01-01,1147958.392,0.3936550941331394,17,Galicia
+316,Ciclo combinado,No-Renovable,2015-01-01,61203.646,0.0209878051289348,17,Galicia
+317,Eólica,Renovable,2015-01-01,657535.626,0.22548051440955255,17,Galicia
+318,Solar fotovoltaica,Renovable,2015-01-01,900.399,0.0003087626307473212,17,Galicia
+319,Otras renovables,Renovable,2015-01-01,18303.37,0.006276547033861206,17,Galicia
+320,Cogeneración,No-Renovable,2015-01-01,212357.442,0.07282109648132848,17,Galicia
+321,Residuos no renovables,Renovable,2015-01-01,13366.0875,0.004583466151449397,17,Galicia
+322,Residuos renovables,Renovable,2015-01-01,13366.0875,0.004583466151449397,17,Galicia
+323,Generación total,Generación total,2015-01-01,2916152.767,1.0,17,Galicia
+324,Hidráulica,Renovable,2015-01-01,14416.099,0.08365771851299982,20,La_Rioja
+325,Ciclo combinado,No-Renovable,2015-01-01,14635.654,0.08493181287015718,20,La_Rioja
+326,Eólica,Renovable,2015-01-01,129015.928,0.7486892389069645,20,La_Rioja
+327,Solar fotovoltaica,Renovable,2015-01-01,6782.668,0.03936033807142497,20,La_Rioja
+328,Otras renovables,Renovable,2015-01-01,862.437,0.0050047874796917,20,La_Rioja
+329,Cogeneración,No-Renovable,2015-01-01,6609.616,0.03835610415876166,20,La_Rioja
+330,Generación total,Generación total,2015-01-01,172322.40200000003,1.0,20,La_Rioja
+331,Hidráulica,Renovable,2015-01-01,8325.584,0.016986322582935514,21,Murcia
+332,Ciclo combinado,No-Renovable,2015-01-01,224439.92,0.4579148900075045,21,Murcia
+333,Eólica,Renovable,2015-01-01,60806.581,0.12406099080033273,21,Murcia
+334,Solar fotovoltaica,Renovable,2015-01-01,53562.315,0.10928083373836664,21,Murcia
+335,Solar térmica,Renovable,2015-01-01,1629.424,0.0033244420677729166,21,Murcia
+336,Otras renovables,Renovable,2015-01-01,3005.015,0.006130999838156693,21,Murcia
+337,Cogeneración,No-Renovable,2015-01-01,138365.736,0.2823015209649309,21,Murcia
+338,Generación total,Generación total,2015-01-01,490134.57500000007,1.0,21,Murcia
+339,Hidráulica,Renovable,2016-01-01,307.662,0.0004244329908154048,8742,Canarias
+340,Motores diésel,No-Renovable,2016-01-01,190988.363,0.26347667933975666,8742,Canarias
+341,Turbina de gas,No-Renovable,2016-01-01,18430.33,0.025425434677064054,8742,Canarias
+342,Turbina de vapor,No-Renovable,2016-01-01,229357.249,0.3164082114731866,8742,Canarias
+343,Ciclo combinado,No-Renovable,2016-01-01,245251.456,0.3383349551517986,8742,Canarias
+344,Hidroeólica,Renovable,2016-01-01,790.736,0.0010908543967906663,8742,Canarias
+345,Eólica,Renovable,2016-01-01,19203.504,0.026492061537842147,8742,Canarias
+346,Solar fotovoltaica,Renovable,2016-01-01,19686.59,0.027158499498334668,8742,Canarias
+347,Otras renovables,Renovable,2016-01-01,861.786,0.001188870934411284,8742,Canarias
+348,Generación total,Generación total,2016-01-01,724877.676,1.0,8742,Canarias
+349,Carbón,No-Renovable,2016-01-01,114409.217,0.3567784300756627,8743,Baleares
+350,Motores diésel,No-Renovable,2016-01-01,37783.989,0.11782715266215052,8743,Baleares
+351,Turbina de gas,No-Renovable,2016-01-01,48057.168,0.1498634585788868,8743,Baleares
+352,Ciclo combinado,No-Renovable,2016-01-01,92204.111,0.28753310993381015,8743,Baleares
+353,Eólica,Renovable,2016-01-01,530.127,0.001653169943473355,8743,Baleares
+354,Solar fotovoltaica,Renovable,2016-01-01,7081.305,0.02208263413591005,8743,Baleares
+355,Otras renovables,Renovable,2016-01-01,176.264,0.0005496689414355192,8743,Baleares
+356,Cogeneración,No-Renovable,2016-01-01,3301.81,0.01029650074616037,8743,Baleares
+357,Residuos no renovables,No-Renovable,2016-01-01,8564.515,0.026707937491255305,8743,Baleares
+358,Residuos renovables,Renovable,2016-01-01,8564.515,0.026707937491255305,8743,Baleares
+359,Generación total,Generación total,2016-01-01,320673.021,1.0,8743,Baleares
+360,Motores diésel,No-Renovable,2016-01-01,17310.614,0.9999683441238665,8744,Ceuta
+361,Turbina de gas,No-Renovable,2016-01-01,0.548,3.165587613356053e-05,8744,Ceuta
+362,Generación total,Generación total,2016-01-01,17311.162,1.0,8744,Ceuta
+363,Motores diésel,No-Renovable,2016-01-01,16079.162,0.9426482385746605,8745,Melilla
+364,Turbina de gas,No-Renovable,2016-02-01,0.274,1.6997543916938836e-05,8745,Melilla
+365,Solar fotovoltaica,Renovable,2016-01-01,4.303,0.0002522653463275489,8745,Melilla
+366,Residuos no renovables,No-Renovable,2016-01-01,486.9855,0.028549748039506058,8745,Melilla
+367,Residuos renovables,Renovable,2016-01-01,486.9855,0.028549748039506058,8745,Melilla
+368,Generación total,Generación total,2016-01-01,17057.435999999998,1.0,8745,Melilla
+369,Hidráulica,Renovable,2016-01-01,27321.172,0.011063607020253219,4,Andalucía
+370,Turbinación bombeo,No-Renovable,2016-01-01,38812.998,0.015717179231911214,4,Andalucía
+371,Carbón,No-Renovable,2016-01-01,746745.551,0.30239183444935885,4,Andalucía
+372,Ciclo combinado,No-Renovable,2016-01-01,419398.78,0.16983397662053573,4,Andalucía
+373,Eólica,Renovable,2016-01-01,587036.601,0.23771828895075175,4,Andalucía
+374,Solar fotovoltaica,Renovable,2016-01-01,77772.405,0.03149364624401825,4,Andalucía
+375,Solar térmica,Renovable,2016-01-01,34863.464,0.01411783012312742,4,Andalucía
+376,Otras renovables,Renovable,2016-01-01,104973.066,0.04250845278288591,4,Andalucía
+377,Cogeneración,No-Renovable,2016-01-01,432539.308,0.1751551845771576,4,Andalucía
+378,Residuos no renovables,Renovable,2016-02-01,416.052,0.00016855477170821956,4,Andalucía
+379,Generación total,Generación total,2016-01-01,2469463.345,1.0,4,Andalucía
+380,Hidráulica,Renovable,2016-01-01,207323.595,0.19334063044471875,5,Aragón
+381,Turbinación bombeo,No-Renovable,2016-01-01,43258.257,0.04034069870493837,5,Aragón
+382,Carbón,No-Renovable,2016-01-01,186812.487,0.17421289656648017,5,Aragón
+383,Ciclo combinado,No-Renovable,2016-01-01,20348.062,0.018975684535125995,5,Aragón
+384,Eólica,Renovable,2016-01-01,367291.73,0.3425196955287767,5,Aragón
+385,Solar fotovoltaica,Renovable,2016-01-01,11873.667,0.011072846115130564,5,Aragón
+386,Otras renovables,Renovable,2016-01-01,5479.952,0.005110355984743548,5,Aragón
+387,Cogeneración,No-Renovable,2016-01-01,198944.76,0.18552690696914292,5,Aragón
+388,Residuos no renovables,Renovable,2016-01-01,30990.439,0.0289002851509429,5,Aragón
+389,Generación total,Generación total,2016-01-01,1072322.949,1.0,5,Aragón
+390,Hidráulica,Renovable,2016-01-01,20134.369,0.14103438355816073,6,Cantabria
+391,Turbinación bombeo,No-Renovable,2016-01-01,54625.46,0.38263270518589215,6,Cantabria
+392,Eólica,Renovable,2016-01-01,9279.857,0.06500223133403797,6,Cantabria
+393,Solar fotovoltaica,Renovable,2016-01-01,81.027,0.0005675664827920402,6,Cantabria
+394,Otras renovables,Renovable,2016-01-01,4489.022,0.031444067134610565,6,Cantabria
+395,Cogeneración,No-Renovable,2016-01-01,47757.572,0.3345254935605122,6,Cantabria
+396,Residuos no renovables,Renovable,2016-01-01,3197.4115,0.022396776371997256,6,Cantabria
+397,Residuos renovables,Renovable,2016-01-01,3197.4115,0.022396776371997256,6,Cantabria
+398,Generación total,Generación total,2016-01-01,142762.12999999998,1.0,6,Cantabria
+399,Hidráulica,Renovable,2016-01-01,38409.754,0.018262567559309092,7,Castilla_la_Mancha
+400,Turbinación bombeo,No-Renovable,2016-01-01,12013.16,0.005711860224379193,7,Castilla_la_Mancha
+401,Nuclear,No-Renovable,2016-01-01,743136.605,0.35333687517519885,7,Castilla_la_Mancha
+402,Carbón,No-Renovable,2016-01-01,-1100.771,0.0005233802006341469,7,Castilla_la_Mancha
+403,Ciclo combinado,No-Renovable,2016-01-01,154146.076,0.07329136049536776,7,Castilla_la_Mancha
+404,Eólica,Renovable,2016-01-01,986575.047,0.4690838022072738,7,Castilla_la_Mancha
+405,Solar fotovoltaica,Renovable,2016-01-01,71510.187,0.03400072859790581,7,Castilla_la_Mancha
+406,Solar térmica,Renovable,2016-01-01,6119.934,0.002909826189813992,7,Castilla_la_Mancha
+407,Otras renovables,Renovable,2016-01-01,20968.482,0.009969819622931109,7,Castilla_la_Mancha
+408,Cogeneración,No-Renovable,2016-01-01,69215.708,0.03290977972718625,7,Castilla_la_Mancha
+409,Generación total,Generación total,2016-01-01,2100994.182,1.0,7,Castilla_la_Mancha
+410,Hidráulica,Renovable,2016-01-01,1064810.658,0.3429065668951653,8,Castilla_León
+411,Turbinación bombeo,No-Renovable,2016-01-01,86800.312,0.027952760211148467,8,Castilla_León
+412,Nuclear,No-Renovable,2016-01-01,-1814.74,0.0005844102503408002,8,Castilla_León
+413,Carbón,No-Renovable,2016-01-01,318926.231,0.10270548866446869,8,Castilla_León
+414,Eólica,Renovable,2016-01-01,1421817.058,0.4578752123194507,8,Castilla_León
+415,Solar fotovoltaica,Renovable,2016-01-01,27163.809,0.008747704033580394,8,Castilla_León
+416,Otras renovables,Renovable,2016-01-01,17978.447,0.005789693681744387,8,Castilla_León
+417,Cogeneración,No-Renovable,2016-01-01,165938.865,0.05343816394410122,8,Castilla_León
+418,Generación total,Generación total,2016-01-01,3101620.6400000006,1.0,8,Castilla_León
+419,Hidráulica,Renovable,2016-01-01,240742.787,0.06293041836903647,9,Cataluña
+420,Turbinación bombeo,No-Renovable,2016-01-01,33807.4,0.008837290007651873,9,Cataluña
+421,Nuclear,No-Renovable,2016-01-01,2260528.143,0.5909044401565854,9,Cataluña
+422,Ciclo combinado,No-Renovable,2016-01-01,542737.539,0.1418721649751909,9,Cataluña
+423,Eólica,Renovable,2016-01-01,288811.455,0.07549561886944571,9,Cataluña
+424,Solar fotovoltaica,Renovable,2016-01-01,19332.045,0.005053416947354021,9,Cataluña
+425,Solar térmica,Renovable,2016-01-01,3651.407,0.0009544816399655136,9,Cataluña
+426,Otras renovables,Renovable,2016-01-01,13477.744,0.0035230964929834885,9,Cataluña
+427,Cogeneración,No-Renovable,2016-01-01,398619.932,0.10419967054297193,9,Cataluña
+428,Residuos no renovables,Renovable,2016-01-01,11915.411,0.0031147009994073847,9,Cataluña
+429,Residuos renovables,Renovable,2016-01-01,11915.411,0.0031147009994073847,9,Cataluña
+430,Generación total,Generación total,2016-01-01,3825539.2739999997,1.0,9,Cataluña
+431,Hidráulica,Renovable,2016-01-01,29522.061,0.06296004287586694,10,País_Vasco
+432,Ciclo combinado,No-Renovable,2016-01-01,162084.366,0.34566823206779873,10,País_Vasco
+433,Eólica,Renovable,2016-01-01,39266.747,0.08374198788884758,10,País_Vasco
+434,Solar fotovoltaica,Renovable,2016-01-01,1100.871,0.0023477658067571406,10,País_Vasco
+435,Otras renovables,Renovable,2016-01-01,1073.087,0.0022885124290453647,10,País_Vasco
+436,Cogeneración,No-Renovable,2016-01-01,171363.352,0.3654570048233516,10,País_Vasco
+437,Residuos no renovables,Renovable,2016-01-01,43050.574,0.09181154340378479,10,País_Vasco
+438,Residuos renovables,Renovable,2016-01-01,21440.481,0.045724910704547705,10,País_Vasco
+439,Generación total,Generación total,2016-01-01,468901.5390000001,1.0,10,País_Vasco
+440,Hidráulica,Renovable,2016-01-01,255760.493,0.21696073076875144,11,Asturias
+441,Turbinación bombeo,No-Renovable,2016-01-01,5187.706,0.004400712837120769,11,Asturias
+442,Carbón,No-Renovable,2016-01-01,608822.048,0.5164616117713218,11,Asturias
+443,Ciclo combinado,No-Renovable,2016-01-01,34086.924,0.028915818287458855,11,Asturias
+444,Eólica,Renovable,2016-01-01,168879.605,0.14325997765705784,11,Asturias
+445,Solar fotovoltaica,Renovable,2016-01-01,24.036,2.0389654647552273e-05,11,Asturias
+446,Otras renovables,Renovable,2016-01-01,20304.813,0.017224501778712337,11,Asturias
+447,Cogeneración,No-Renovable,2016-01-01,27883.657,0.023653608609619046,11,Asturias
+448,Residuos no renovables,Renovable,2016-01-01,57883.828,0.04910264863531021,11,Asturias
+449,Generación total,Generación total,2016-01-01,1178833.11,1.0,11,Asturias
+450,Hidráulica,Renovable,2016-01-01,3201.816,0.03547427572229171,13,Madrid
+451,Solar fotovoltaica,Renovable,2016-01-01,3513.879,0.03893175388616044,13,Madrid
+452,Otras renovables,Renovable,2016-01-01,12134.304,0.1344410939898193,13,Madrid
+453,Cogeneración,No-Renovable,2016-01-01,60454.313,0.669798941589312,13,Madrid
+454,Residuos no renovables,Renovable,2016-01-01,5476.5455,0.06067696740620821,13,Madrid
+455,Residuos renovables,Renovable,2016-01-01,5476.5455,0.06067696740620821,13,Madrid
+456,Generación total,Generación total,2016-01-01,90257.40300000002,1.0,13,Madrid
+457,Hidráulica,Renovable,2016-01-01,62926.695,0.18127270753995653,14,Navarra
+458,Ciclo combinado,No-Renovable,2016-01-01,52640.903,0.15164246293497888,14,Navarra
+459,Eólica,Renovable,2016-01-01,125638.654,0.3619268258448309,14,Navarra
+460,Solar fotovoltaica,Renovable,2016-01-01,10544.925,0.030376728120804313,14,Navarra
+461,Otras renovables,Renovable,2016-01-01,27401.08,0.07893419416225424,14,Navarra
+462,Cogeneración,No-Renovable,2016-01-01,67986.018,0.19584708139717524,14,Navarra
+463,Generación total,Generación total,2016-01-01,347138.27499999997,1.0,14,Navarra
+464,Hidráulica,Renovable,2016-01-01,25303.712,0.013746167410932897,15,Valenciana
+465,Turbinación bombeo,No-Renovable,2016-01-01,169090.201,0.09185775630446211,15,Valenciana
+466,Nuclear,No-Renovable,2016-01-01,791761.401,0.4301220614454027,15,Valenciana
+467,Fuel + Gas,No-Renovable,2016-02-01,0.236,1.392233764921671e-07,15,Valenciana
+468,Ciclo combinado,No-Renovable,2016-01-01,363531.98,0.1974876830841226,15,Valenciana
+469,Eólica,Renovable,2016-01-01,303375.252,0.16480771684114787,15,Valenciana
+470,Solar fotovoltaica,Renovable,2016-01-01,26588.217,0.0144439709889289,15,Valenciana
+471,Solar térmica,Renovable,2016-01-01,546.832,0.00029706488192938877,15,Valenciana
+472,Otras renovables,Renovable,2016-01-01,3608.722,0.001960427653915623,15,Valenciana
+473,Cogeneración,No-Renovable,2016-01-01,123901.344,0.06730904213040309,15,Valenciana
+474,Residuos no renovables,Renovable,2016-01-01,33075.391,0.017968109258754736,15,Valenciana
+475,Generación total,Generación total,2016-01-01,1840783.0520000001,1.0,15,Valenciana
+476,Hidráulica,Renovable,2016-01-01,70585.444,0.07308809414156994,16,Extremadura
+477,Turbinación bombeo,No-Renovable,2016-01-01,8713.401,0.009022339968297849,16,Extremadura
+478,Nuclear,No-Renovable,2016-01-01,813949.267,0.8428083367012303,16,Extremadura
+479,Solar fotovoltaica,Renovable,2016-01-01,40829.576,0.04227721361996936,16,Extremadura
+480,Solar térmica,Renovable,2016-01-01,13848.125,0.014339118752079084,16,Extremadura
+481,Otras renovables,Renovable,2016-01-01,15362.816,0.01590751404903845,16,Extremadura
+482,Cogeneración,No-Renovable,2016-01-01,2469.814,0.0025573827678149535,16,Extremadura
+483,Generación total,Generación total,2016-01-01,965758.443,1.0,16,Extremadura
+484,Hidráulica,Renovable,2016-01-01,1374592.245,0.38697602019548544,17,Galicia
+485,Turbinación bombeo,No-Renovable,2016-01-01,2675.981,0.0007533437506762127,17,Galicia
+486,Carbón,No-Renovable,2016-01-01,720440.527,0.20281884241679116,17,Galicia
+487,Ciclo combinado,No-Renovable,2016-01-01,13455.942,0.003788124734503562,17,Galicia
+488,Eólica,Renovable,2016-01-01,1164268.502,0.32776555591794393,17,Galicia
+489,Solar fotovoltaica,Renovable,2016-01-01,520.647,0.00014657285076325957,17,Galicia
+490,Otras renovables,Renovable,2016-01-01,17143.536,0.004826258374066436,17,Galicia
+491,Cogeneración,No-Renovable,2016-01-01,228500.496,0.06432759451132684,17,Galicia
+492,Residuos no renovables,Renovable,2016-01-01,15270.086,0.004298843624221668,17,Galicia
+493,Residuos renovables,Renovable,2016-01-01,15270.086,0.004298843624221668,17,Galicia
+494,Generación total,Generación total,2016-01-01,3552138.0479999995,1.0,17,Galicia
+495,Hidráulica,Renovable,2016-01-01,14617.722,0.0961556632052864,20,La_Rioja
+496,Ciclo combinado,No-Renovable,2016-01-01,51264.957,0.3372218967856612,20,La_Rioja
+497,Eólica,Renovable,2016-01-01,75435.454,0.49621590207844113,20,La_Rioja
+498,Solar fotovoltaica,Renovable,2016-01-01,4700.021,0.03091683070274379,20,La_Rioja
+499,Otras renovables,Renovable,2016-01-01,635.368,0.004179463217279438,20,La_Rioja
+500,Cogeneración,No-Renovable,2016-01-01,5367.914,0.03531024401058809,20,La_Rioja
+501,Generación total,Generación total,2016-01-01,152021.436,1.0,20,La_Rioja
+502,Hidráulica,Renovable,2016-01-01,6267.944,0.021283254388890404,21,Murcia
+503,Ciclo combinado,No-Renovable,2016-01-01,46766.415,0.15879872368059128,21,Murcia
+504,Eólica,Renovable,2016-01-01,67168.148,0.22807427454914087,21,Murcia
+505,Solar fotovoltaica,Renovable,2016-01-01,42130.752,0.1430579967547976,21,Murcia
+506,Solar térmica,Renovable,2016-01-01,883.879,0.003001274677310145,21,Murcia
+507,Otras renovables,Renovable,2016-01-01,4556.07,0.015470463173185959,21,Murcia
+508,Cogeneración,No-Renovable,2016-01-01,126727.994,0.4303140127760836,21,Murcia
+509,Generación total,Generación total,2016-01-01,294501.20200000005,1.0,21,Murcia
+510,Hidráulica,Renovable,2017-01-01,262.545,0.00035221686903202394,8742,Canarias
+511,Motores diésel,No-Renovable,2017-01-01,187922.753,0.25210750035818,8742,Canarias
+512,Turbina de gas,No-Renovable,2017-01-01,31081.89,0.04169786504941162,8742,Canarias
+513,Turbina de vapor,No-Renovable,2017-01-01,210591.342,0.2825185134909907,8742,Canarias
+514,Ciclo combinado,No-Renovable,2017-01-01,280539.103,0.3763568321610104,8742,Canarias
+515,Hidroeólica,Renovable,2017-01-01,1068.971,0.0014340765152870238,8742,Canarias
+516,Eólica,Renovable,2017-01-01,15115.34,0.020277962746022636,8742,Canarias
+517,Solar fotovoltaica,Renovable,2017-01-01,18013.853,0.024166458713222993,8742,Canarias
+518,Otras renovables,Renovable,2017-01-01,811.431,0.0010885740968425383,8742,Canarias
+519,Generación total,Generación total,2017-01-01,745407.228,1.0,8742,Canarias
+520,Carbón,No-Renovable,2017-01-01,221058.173,0.5806181686760253,8743,Baleares
+521,Motores diésel,No-Renovable,2017-01-01,84274.308,0.22134985426392406,8743,Baleares
+522,Turbina de gas,No-Renovable,2017-01-01,13229.322,0.034747345498351935,8743,Baleares
+523,Ciclo combinado,No-Renovable,2017-01-01,37633.499,0.09884589641592231,8743,Baleares
+524,Eólica,Renovable,2017-01-01,468.562,0.0012306969095920999,8743,Baleares
+525,Solar fotovoltaica,Renovable,2017-01-01,5799.134,0.015231658333604674,8743,Baleares
+526,Otras renovables,Renovable,2017-01-01,159.457,0.000418820214001194,8743,Baleares
+527,Cogeneración,No-Renovable,2017-01-01,3018.215,0.007927462903488803,8743,Baleares
+528,Residuos no renovables,No-Renovable,2017-01-01,7544.1635,0.01981504839254468,8743,Baleares
+529,Residuos renovables,Renovable,2017-01-01,7544.1635,0.01981504839254468,8743,Baleares
+530,Generación total,Generación total,2017-01-01,380728.9970000001,1.0,8743,Baleares
+531,Motores diésel,No-Renovable,2017-01-01,18539.673,0.9999793959618781,8744,Ceuta
+532,Turbina de gas,No-Renovable,2017-01-01,0.382,2.0604038121785508e-05,8744,Ceuta
+533,Generación total,Generación total,2017-01-01,18540.055,1.0,8744,Ceuta
+534,Motores diésel,No-Renovable,2017-01-01,17659.624,0.9510634580714262,8745,Melilla
+535,Turbina de gas,No-Renovable,2017-02-01,4.096,0.0002625289640719883,8745,Melilla
+536,Solar fotovoltaica,Renovable,2017-01-01,4.628,0.00024924209507261086,8745,Melilla
+537,Residuos no renovables,No-Renovable,2017-01-01,452.02,0.024343649916750552,8745,Melilla
+538,Residuos renovables,Renovable,2017-01-01,452.02,0.024343649916750552,8745,Melilla
+539,Generación total,Generación total,2017-01-01,18568.292,1.0,8745,Melilla
+540,Hidráulica,Renovable,2017-01-01,28966.93,0.010860143560692249,4,Andalucía
+541,Turbinación bombeo,No-Renovable,2017-01-01,20446.637,0.007665755851702679,4,Andalucía
+542,Carbón,No-Renovable,2017-01-01,808180.811,0.3029993040497108,4,Andalucía
+543,Ciclo combinado,No-Renovable,2017-01-01,511917.15,0.1919255419949725,4,Andalucía
+544,Eólica,Renovable,2017-01-01,486002.615,0.18220978784330422,4,Andalucía
+545,Solar fotovoltaica,Renovable,2017-01-01,105876.631,0.03969476269602748,4,Andalucía
+546,Solar térmica,Renovable,2017-01-01,71769.211,0.026907371084806477,4,Andalucía
+547,Otras renovables,Renovable,2017-01-01,124726.443,0.04676184451698882,4,Andalucía
+548,Cogeneración,No-Renovable,2017-01-01,481661.362,0.1805821859257629,4,Andalucía
+549,Residuos no renovables,Renovable,2017-01-01,27721.739,0.010393302476031848,4,Andalucía
+550,Generación total,Generación total,2017-01-01,2667269.529,1.0,4,Andalucía
+551,Hidráulica,Renovable,2017-01-01,192792.129,0.11408008331992059,5,Aragón
+552,Turbinación bombeo,No-Renovable,2017-01-01,18309.887,0.010834433155402992,5,Aragón
+553,Carbón,No-Renovable,2017-01-01,566856.081,0.3354233872840507,5,Aragón
+554,Ciclo combinado,No-Renovable,2017-01-01,44634.775,0.026411549461990272,5,Aragón
+555,Eólica,Renovable,2017-01-01,555685.491,0.32881346060010047,5,Aragón
+556,Solar fotovoltaica,Renovable,2017-01-01,15602.544,0.009232428360821344,5,Aragón
+557,Otras renovables,Renovable,2017-01-01,4781.263,0.00282919683621759,5,Aragón
+558,Cogeneración,No-Renovable,2017-01-01,254873.385,0.15081516630188882,5,Aragón
+559,Residuos no renovables,Renovable,2017-01-01,36436.291,0.021560294679607343,5,Aragón
+560,Generación total,Generación total,2017-01-01,1689971.846,1.0,5,Aragón
+561,Hidráulica,Renovable,2017-01-01,17878.633,0.10170051368374684,6,Cantabria
+562,Turbinación bombeo,No-Renovable,2017-01-01,36863.891,0.20969593430782163,6,Cantabria
+563,Eólica,Renovable,2017-01-01,7822.318,0.04449634145952989,6,Cantabria
+564,Solar fotovoltaica,Renovable,2017-01-01,103.405,0.000588207253735106,6,Cantabria
+565,Otras renovables,Renovable,2017-01-01,7349.406,0.04180623683423733,6,Cantabria
+566,Cogeneración,No-Renovable,2017-01-01,99348.111,0.5651301149371935,6,Cantabria
+567,Residuos no renovables,Renovable,2017-01-01,3215.558,0.0182913257618679,6,Cantabria
+568,Residuos renovables,Renovable,2017-01-01,3215.558,0.0182913257618679,6,Cantabria
+569,Generación total,Generación total,2017-01-01,175796.88,1.0,6,Cantabria
+570,Hidráulica,Renovable,2017-01-01,37808.44,0.018621759472681725,7,Castilla_la_Mancha
+571,Turbinación bombeo,No-Renovable,2017-01-01,363.75,0.00017915748463009784,7,Castilla_la_Mancha
+572,Nuclear,No-Renovable,2017-01-01,741130.636,0.36502845505997156,7,Castilla_la_Mancha
+573,Ciclo combinado,No-Renovable,2017-01-01,201971.787,0.09947699608293031,7,Castilla_la_Mancha
+574,Eólica,Renovable,2017-01-01,822673.425,0.4051906570310034,7,Castilla_la_Mancha
+575,Solar fotovoltaica,Renovable,2017-01-01,93197.369,0.04590242255445515,7,Castilla_la_Mancha
+576,Solar térmica,Renovable,2017-01-01,16230.123,0.007993808967469684,7,Castilla_la_Mancha
+577,Otras renovables,Renovable,2017-01-01,23743.209,0.01169422295941361,7,Castilla_la_Mancha
+578,Cogeneración,No-Renovable,2017-01-01,93217.871,0.04591252038744452,7,Castilla_la_Mancha
+579,Generación total,Generación total,2017-01-01,2030336.61,1.0,7,Castilla_la_Mancha
+580,Hidráulica,Renovable,2017-01-01,679865.372,0.2044696323494654,8,Castilla_León
+581,Turbinación bombeo,No-Renovable,2017-01-01,38834.123,0.011679369444961112,8,Castilla_León
+582,Nuclear,No-Renovable,2017-01-01,-1906.104,0.0005732611192614844,8,Castilla_León
+583,Carbón,No-Renovable,2017-01-01,1295668.159,0.3896724307906635,8,Castilla_León
+584,Eólica,Renovable,2017-01-01,1058838.44,0.31844585040033707,8,Castilla_León
+585,Solar fotovoltaica,Renovable,2017-01-01,49348.663,0.014841619232443665,8,Castilla_León
+586,Otras renovables,Renovable,2017-01-01,22769.086,0.006847806690989051,8,Castilla_León
+587,Cogeneración,No-Renovable,2017-01-01,177788.855,0.053470029971878635,8,Castilla_León
+588,Generación total,Generación total,2017-01-01,3321206.594,1.0,8,Castilla_León
+589,Hidráulica,Renovable,2017-01-01,254323.473,0.0636831133831092,9,Cataluña
+590,Turbinación bombeo,No-Renovable,2017-01-01,15297.05,0.003830412340968191,9,Cataluña
+591,Nuclear,No-Renovable,2017-01-01,2254940.523,0.5646416797649525,9,Cataluña
+592,Ciclo combinado,No-Renovable,2017-01-01,652443.5,0.16337317549360694,9,Cataluña
+593,Eólica,Renovable,2017-01-01,297735.172,0.07455349084752204,9,Cataluña
+594,Solar fotovoltaica,Renovable,2017-01-01,19987.989,0.005005032979348074,9,Cataluña
+595,Solar térmica,Renovable,2017-01-01,6716.683,0.0016818710439968003,9,Cataluña
+596,Otras renovables,Renovable,2017-01-01,19754.85,0.004946654500964268,9,Cataluña
+597,Cogeneración,No-Renovable,2017-01-01,447559.94,0.11206991658515747,9,Cataluña
+598,Residuos no renovables,Renovable,2017-01-01,12462.8685,0.0031207275459166134,9,Cataluña
+599,Residuos renovables,Renovable,2017-01-01,12355.8325,0.0030939255144577455,9,Cataluña
+600,Generación total,Generación total,2017-01-01,3993577.8810000005,1.0,9,Cataluña
+601,Hidráulica,Renovable,2017-01-01,40501.03,0.07520862876922248,10,País_Vasco
+602,Ciclo combinado,No-Renovable,2017-01-01,197416.374,0.36659351095841236,10,País_Vasco
+603,Eólica,Renovable,2017-01-01,37011.942,0.0687295460363846,10,País_Vasco
+604,Solar fotovoltaica,Renovable,2017-01-01,1469.139,0.0027281264121279567,10,País_Vasco
+605,Otras renovables,Renovable,2017-01-01,4125.436,0.0076607529397446465,10,País_Vasco
+606,Cogeneración,No-Renovable,2017-01-01,183090.845,0.33999163459912635,10,País_Vasco
+607,Residuos no renovables,Renovable,2017-01-01,45630.696,0.08473419258584894,10,País_Vasco
+608,Residuos renovables,Renovable,2017-01-01,29270.273,0.0543536076991325,10,País_Vasco
+609,Generación total,Generación total,2017-01-01,538515.7350000001,1.0,10,País_Vasco
+610,Hidráulica,Renovable,2017-01-01,74870.719,0.04609031638818307,11,Asturias
+611,Turbinación bombeo,No-Renovable,2017-01-01,1028.916,0.0006333993396919798,11,Asturias
+612,Carbón,No-Renovable,2017-01-01,1208958.454,0.7442332381638898,11,Asturias
+613,Ciclo combinado,No-Renovable,2017-01-01,123399.089,0.07596431729236582,11,Asturias
+614,Eólica,Renovable,2017-01-01,88953.48,0.05475964558360812,11,Asturias
+615,Solar fotovoltaica,Renovable,2017-01-01,26.577,1.6360766331745012e-05,11,Asturias
+616,Otras renovables,Renovable,2017-01-01,23368.292,0.014385489896677062,11,Asturias
+617,Cogeneración,No-Renovable,2017-01-01,36749.99,0.022623245629076486,11,Asturias
+618,Residuos no renovables,Renovable,2017-01-01,67079.394,0.041293986940176025,11,Asturias
+619,Generación total,Generación total,2017-01-01,1624434.9109999998,1.0,11,Asturias
+620,Hidráulica,Renovable,2017-01-01,7750.341,0.07265750669251661,13,Madrid
+621,Solar fotovoltaica,Renovable,2017-01-01,4601.593,0.0431387824347003,13,Madrid
+622,Otras renovables,Renovable,2017-01-01,14179.16,0.13292607545839127,13,Madrid
+623,Cogeneración,No-Renovable,2017-01-01,65322.532,0.6123823849766261,13,Madrid
+624,Residuos no renovables,Renovable,2017-01-01,7407.9445,0.06944762521888283,13,Madrid
+625,Residuos renovables,Renovable,2017-01-01,7407.9445,0.06944762521888283,13,Madrid
+626,Generación total,Generación total,2017-01-01,106669.515,1.0,13,Madrid
+627,Hidráulica,Renovable,2017-01-01,49738.778,0.07572002396861005,14,Navarra
+628,Ciclo combinado,No-Renovable,2017-01-01,178337.938,0.2714934600900829,14,Navarra
+629,Eólica,Renovable,2017-01-01,309121.316,0.47059204905935326,14,Navarra
+630,Solar fotovoltaica,Renovable,2017-01-01,16343.186,0.02488011337237622,14,Navarra
+631,Otras renovables,Renovable,2017-01-01,26720.906,0.04067867615852919,14,Navarra
+632,Cogeneración,No-Renovable,2017-01-01,76615.349,0.11663567735104839,14,Navarra
+633,Generación total,Generación total,2017-01-01,656877.473,1.0,14,Navarra
+634,Hidráulica,Renovable,2017-01-01,28199.751,0.01449203103362439,15,Valenciana
+635,Turbinación bombeo,No-Renovable,2017-01-01,147504.879,0.07580369358860688,15,Valenciana
+636,Nuclear,No-Renovable,2017-01-01,789593.01,0.40577685969116867,15,Valenciana
+637,Fuel + Gas,No-Renovable,2017-03-01,0.001,6.340474030983199e-10,15,Valenciana
+638,Ciclo combinado,No-Renovable,2017-01-01,531735.9,0.27326245414337863,15,Valenciana
+639,Eólica,Renovable,2017-01-01,279388.201,0.14357936987885067,15,Valenciana
+640,Solar fotovoltaica,Renovable,2017-01-01,28696.036,0.014747075045237198,15,Valenciana
+641,Solar térmica,Renovable,2017-01-01,1826.287,0.0009385404814498109,15,Valenciana
+642,Otras renovables,Renovable,2017-01-01,2136.344,0.0010978807418014884,15,Valenciana
+643,Cogeneración,No-Renovable,2017-01-01,132384.956,0.06803346918690875,15,Valenciana
+644,Residuos no renovables,Renovable,2017-01-01,4414.474,0.0022686262089735474,15,Valenciana
+645,Generación total,Generación total,2017-01-01,1945879.838,1.0,15,Valenciana
+646,Hidráulica,Renovable,2017-01-01,256955.097,0.1349077104893943,16,Extremadura
+647,Turbinación bombeo,No-Renovable,2017-01-01,1839.059,0.000965550954394631,16,Extremadura
+648,Nuclear,No-Renovable,2017-01-01,1499796.27,0.7874297235140404,16,Extremadura
+649,Solar fotovoltaica,Renovable,2017-01-01,65871.82,0.03458431658185591,16,Extremadura
+650,Solar térmica,Renovable,2017-01-01,51541.839,0.02706072607659918,16,Extremadura
+651,Otras renovables,Renovable,2017-01-01,25239.819,0.013251522286233199,16,Extremadura
+652,Cogeneración,No-Renovable,2017-01-01,3429.269,0.0018004500974824198,16,Extremadura
+653,Generación total,Generación total,2017-01-01,1904673.173,1.0,16,Extremadura
+654,Hidráulica,Renovable,2017-01-01,361409.733,0.1379149764383455,17,Galicia
+655,Turbinación bombeo,No-Renovable,2017-01-01,10724.826,0.004092623939088423,17,Galicia
+656,Carbón,No-Renovable,2017-01-01,1278584.98,0.48791164512197144,17,Galicia
+657,Ciclo combinado,No-Renovable,2017-01-01,34739.585,0.013256723904424844,17,Galicia
+658,Eólica,Renovable,2017-01-01,640061.271,0.2442491915652489,17,Galicia
+659,Solar fotovoltaica,Renovable,2017-01-01,1028.463,0.0003924643900298892,17,Galicia
+660,Otras renovables,Renovable,2017-01-01,22139.052,0.008448324868293753,17,Galicia
+661,Cogeneración,No-Renovable,2017-01-01,246861.802,0.09420316194516408,17,Galicia
+662,Residuos no renovables,Renovable,2017-01-01,12487.968,0.004765443913716658,17,Galicia
+663,Residuos renovables,Renovable,2017-01-01,12487.968,0.004765443913716658,17,Galicia
+664,Generación total,Generación total,2017-01-01,2620525.6479999996,1.0,17,Galicia
+665,Hidráulica,Renovable,2017-01-01,7485.39,0.022190204181841373,20,La_Rioja
+666,Ciclo combinado,No-Renovable,2017-01-01,171294.761,0.5077979533290474,20,La_Rioja
+667,Eólica,Renovable,2017-01-01,144168.539,0.42738311791473266,20,La_Rioja
+668,Solar fotovoltaica,Renovable,2017-01-01,7197.234,0.0213359747460708,20,La_Rioja
+669,Otras renovables,Renovable,2017-01-01,888.487,0.0026338918804379857,20,La_Rioja
+670,Cogeneración,No-Renovable,2017-01-01,6294.166,0.01865885794786962,20,La_Rioja
+671,Generación total,Generación total,2017-01-01,337328.57700000005,1.0,20,La_Rioja
+672,Hidráulica,Renovable,2017-01-01,1832.836,0.003470831527143261,21,Murcia
+673,Ciclo combinado,No-Renovable,2017-01-01,263650.45,0.4992734178101631,21,Murcia
+674,Eólica,Renovable,2017-01-01,69502.426,0.1316163646795139,21,Murcia
+675,Solar fotovoltaica,Renovable,2017-01-01,42986.793,0.08140385522500716,21,Murcia
+676,Solar térmica,Renovable,2017-01-01,1127.938,0.0021359700328141286,21,Murcia
+677,Otras renovables,Renovable,2017-01-01,4567.888,0.008650184567991558,21,Murcia
+678,Cogeneración,No-Renovable,2017-01-01,144399.939,0.2734493761573669,21,Murcia
+679,Generación total,Generación total,2017-01-01,528068.27,1.0,21,Murcia
+680,Hidráulica,Renovable,2018-01-01,279.432,0.00036996786908391065,8742,Canarias
+681,Motores diésel,No-Renovable,2018-01-01,184470.955,0.2442394791191559,8742,Canarias
+682,Turbina de gas,No-Renovable,2018-01-01,27249.141,0.0360778530380809,8742,Canarias
+683,Turbina de vapor,No-Renovable,2018-01-01,230384.784,0.30502937246212686,8742,Canarias
+684,Ciclo combinado,No-Renovable,2018-01-01,233901.625,0.30968566870120084,8742,Canarias
+685,Hidroeólica,Renovable,2018-01-01,2257.767,0.002989282708773418,8742,Canarias
+686,Eólica,Renovable,2018-01-01,56908.339,0.0753466206910261,8742,Canarias
+687,Solar fotovoltaica,Renovable,2018-01-01,19072.745,0.025252307628442022,8742,Canarias
+688,Otras renovables,Renovable,2018-01-01,762.423,0.0010094477821100032,8742,Canarias
+689,Generación total,Generación total,2018-01-01,755287.211,1.0,8742,Canarias
+690,Carbón,No-Renovable,2018-01-01,198555.029,0.5667332362742212,8743,Baleares
+691,Motores diésel,No-Renovable,2018-01-01,35080.182,0.10012894246032258,8743,Baleares
+692,Turbina de gas,No-Renovable,2018-01-01,59852.256,0.17083557597119928,8743,Baleares
+693,Ciclo combinado,No-Renovable,2018-01-01,31200.264,0.08905453907858499,8743,Baleares
+694,Eólica,Renovable,2018-01-01,252.64,0.0007211073198872199,8743,Baleares
+695,Solar fotovoltaica,Renovable,2018-01-01,7044.5,0.020107031803932557,8743,Baleares
+696,Otras renovables,Renovable,2018-01-01,219.363,0.0006261251781682245,8743,Baleares
+697,Cogeneración,No-Renovable,2018-01-01,3182.987,0.009085161592803447,8743,Baleares
+698,Residuos no renovables,No-Renovable,2018-01-01,7481.4245,0.021354140160440092,8743,Baleares
+699,Residuos renovables,Renovable,2018-01-01,7481.4245,0.021354140160440092,8743,Baleares
+700,Generación total,Generación total,2018-01-01,350350.0700000001,1.0,8743,Baleares
+701,Motores diésel,No-Renovable,2018-01-01,18543.508,0.9999701791317447,8744,Ceuta
+702,Turbina de gas,No-Renovable,2018-01-01,0.553,2.982086825534062e-05,8744,Ceuta
+703,Generación total,Generación total,2018-01-01,18544.061,1.0,8744,Ceuta
+704,Motores diésel,No-Renovable,2018-01-01,17095.319,0.9400277345622365,8745,Melilla
+705,Turbina de gas,No-Renovable,2018-01-01,44.298,0.00243583337553619,8745,Melilla
+706,Solar fotovoltaica,Renovable,2018-01-01,4.205,0.00023122216226758945,8745,Melilla
+707,Residuos no renovables,No-Renovable,2018-01-01,521.0755,0.02865260494997986,8745,Melilla
+708,Residuos renovables,Renovable,2018-01-01,521.0755,0.02865260494997986,8745,Melilla
+709,Generación total,Generación total,2018-01-01,18185.972999999998,1.0,8745,Melilla
+710,Hidráulica,Renovable,2018-01-01,23913.41,0.008492762028351303,4,Andalucía
+711,Turbinación bombeo,No-Renovable,2018-01-01,23466.559,0.008334064493991678,4,Andalucía
+712,Carbón,No-Renovable,2018-01-01,920178.541,0.326798117554481,4,Andalucía
+713,Ciclo combinado,No-Renovable,2018-01-01,552724.932,0.1962982826210338,4,Andalucía
+714,Eólica,Renovable,2018-01-01,581431.899,0.2064934592724078,4,Andalucía
+715,Solar fotovoltaica,Renovable,2018-01-01,87182.186,0.030962441525882782,4,Andalucía
+716,Solar térmica,Renovable,2018-01-01,55405.267,0.019676982402269918,4,Andalucía
+717,Otras renovables,Renovable,2018-01-01,105111.404,0.0373299391696079,4,Andalucía
+718,Cogeneración,No-Renovable,2018-01-01,439407.975,0.1560541706529825,4,Andalucía
+719,Residuos no renovables,Renovable,2018-01-01,26917.856,0.009559780278991088,4,Andalucía
+720,Generación total,Generación total,2018-01-01,2815740.0290000006,1.0,4,Andalucía
+721,Hidráulica,Renovable,2018-01-01,215744.702,0.17004312655740322,5,Aragón
+722,Turbinación bombeo,No-Renovable,2018-01-01,18684.217,0.014726306817754371,5,Aragón
+723,Carbón,No-Renovable,2018-01-01,260963.329,0.2056830131568573,5,Aragón
+724,Ciclo combinado,No-Renovable,2018-01-01,9219.952,0.007266873532723798,5,Aragón
+725,Eólica,Renovable,2018-01-01,458149.578,0.36109895608966047,5,Aragón
+726,Solar fotovoltaica,Renovable,2018-01-01,15275.588,0.012039733627028999,5,Aragón
+727,Otras renovables,Renovable,2018-01-01,3501.161,0.0027595039762359705,5,Aragón
+728,Cogeneración,No-Renovable,2018-01-01,253784.968,0.2000252568519181,5,Aragón
+729,Residuos no renovables,Renovable,2018-01-01,33441.12,0.026357229390417704,5,Aragón
+730,Generación total,Generación total,2018-01-01,1268764.615,1.0,5,Aragón
+731,Hidráulica,Renovable,2018-01-01,39255.272,0.16783763694043208,6,Cantabria
+732,Turbinación bombeo,No-Renovable,2018-01-01,38233.998,0.16347113516638495,6,Cantabria
+733,Eólica,Renovable,2018-01-01,7810.512,0.033394186578936155,6,Cantabria
+734,Solar fotovoltaica,Renovable,2018-01-01,76.458,0.00032689953199640436,6,Cantabria
+735,Otras renovables,Renovable,2018-01-01,7228.941,0.030907654264166202,6,Cantabria
+736,Cogeneración,No-Renovable,2018-01-01,138510.01,0.5922056219861531,6,Cantabria
+737,Residuos no renovables,Renovable,2018-01-01,1386.5915,0.005928432765965528,6,Cantabria
+738,Residuos renovables,Renovable,2018-01-01,1386.5915,0.005928432765965528,6,Cantabria
+739,Generación total,Generación total,2018-01-01,233888.374,1.0,6,Cantabria
+740,Hidráulica,Renovable,2018-01-01,26884.47,0.01265645232899812,7,Castilla_la_Mancha
+741,Turbinación bombeo,No-Renovable,2018-01-01,10620.64,0.004999898598092155,7,Castilla_la_Mancha
+742,Nuclear,No-Renovable,2018-01-01,740146.666,0.34844023314188055,7,Castilla_la_Mancha
+743,Ciclo combinado,No-Renovable,2018-01-01,170008.376,0.08003516180063762,7,Castilla_la_Mancha
+744,Eólica,Renovable,2018-01-01,952939.293,0.4486170169723886,7,Castilla_la_Mancha
+745,Solar fotovoltaica,Renovable,2018-01-01,93611.325,0.04406957891737683,7,Castilla_la_Mancha
+746,Solar térmica,Renovable,2018-01-01,13418.482,0.006317043920170989,7,Castilla_la_Mancha
+747,Otras renovables,Renovable,2018-01-01,22354.2,0.010523728630428266,7,Castilla_la_Mancha
+748,Cogeneración,No-Renovable,2018-01-01,94187.627,0.04434088569002685,7,Castilla_la_Mancha
+749,Generación total,Generación total,2018-01-01,2124171.079,1.0,7,Castilla_la_Mancha
+750,Hidráulica,Renovable,2018-01-01,355847.936,0.15843798067934484,8,Castilla_León
+751,Turbinación bombeo,No-Renovable,2018-01-01,26283.07,0.011702292230954144,8,Castilla_León
+752,Carbón,No-Renovable,2018-01-01,376514.96,0.16763978071229924,8,Castilla_León
+753,Eólica,Renovable,2018-01-01,1219173.659,0.5428257215728466,8,Castilla_León
+754,Solar fotovoltaica,Renovable,2018-01-01,37487.461,0.01669094301459063,8,Castilla_León
+755,Otras renovables,Renovable,2018-01-01,26379.274,0.011745126166327247,8,Castilla_León
+756,Cogeneración,No-Renovable,2018-01-01,204289.854,0.09095815562363743,8,Castilla_León
+757,Generación total,Generación total,2018-01-01,2245976.2139999997,1.0,8,Castilla_León
+758,Hidráulica,Renovable,2018-01-01,245093.447,0.06046651704470472,9,Cataluña
+759,Turbinación bombeo,No-Renovable,2018-01-01,16566.886,0.0040871835088136,9,Cataluña
+760,Nuclear,No-Renovable,2018-01-01,2265984.607,0.5590365574409014,9,Cataluña
+761,Ciclo combinado,No-Renovable,2018-01-01,604248.518,0.1490729505831487,9,Cataluña
+762,Eólica,Renovable,2018-01-01,368720.504,0.09096630249705583,9,Cataluña
+763,Solar fotovoltaica,Renovable,2018-01-01,21162.608,0.00522098494678401,9,Cataluña
+764,Solar térmica,Renovable,2018-01-01,6299.366,0.0015541040622348153,9,Cataluña
+765,Otras renovables,Renovable,2018-01-01,17683.254,0.0043626004386679625,9,Cataluña
+766,Cogeneración,No-Renovable,2018-01-01,480460.154,0.11853336940151833,9,Cataluña
+767,Residuos no renovables,Renovable,2018-01-01,13915.117,0.0034329708507447793,9,Cataluña
+768,Residuos renovables,Renovable,2018-01-01,13240.183,0.0032664592254255977,9,Cataluña
+769,Generación total,Generación total,2018-01-01,4053374.644000001,1.0,9,Cataluña
+770,Hidráulica,Renovable,2018-01-01,76028.105,0.1610075295481858,10,País_Vasco
+771,Ciclo combinado,No-Renovable,2018-01-01,91033.105,0.19278417294697273,10,País_Vasco
+772,Eólica,Renovable,2018-01-01,33715.44,0.07140043411617436,10,País_Vasco
+773,Solar fotovoltaica,Renovable,2018-01-01,1089.236,0.0023067153581553526,10,País_Vasco
+774,Otras renovables,Renovable,2018-01-01,3109.096,0.006584247576447504,10,País_Vasco
+775,Cogeneración,No-Renovable,2018-01-01,184326.734,0.3903555411650151,10,País_Vasco
+776,Residuos no renovables,Renovable,2018-01-01,51980.731,0.1100815163342398,10,País_Vasco
+777,Residuos renovables,Renovable,2018-01-01,30919.724,0.06547984295480928,10,País_Vasco
+778,Generación total,Generación total,2018-01-01,472202.17100000003,1.0,10,País_Vasco
+779,Hidráulica,Renovable,2018-01-01,228748.599,0.18506093577787733,11,Asturias
+780,Turbinación bombeo,No-Renovable,2018-01-01,2580.446,0.0020876182567757737,11,Asturias
+781,Carbón,No-Renovable,2018-01-01,604167.966,0.4887806510892632,11,Asturias
+782,Ciclo combinado,No-Renovable,2018-01-01,125042.474,0.10116117585673562,11,Asturias
+783,Eólica,Renovable,2018-01-01,155312.146,0.12564977972359215,11,Asturias
+784,Solar fotovoltaica,Renovable,2018-01-01,26.166,2.1168673673773797e-05,11,Asturias
+785,Otras renovables,Renovable,2018-01-01,23513.389,0.01902267288486977,11,Asturias
+786,Cogeneración,No-Renovable,2018-01-01,31864.029,0.025778461814288188,11,Asturias
+787,Residuos no renovables,Renovable,2018-01-01,64816.558,0.05243753592292411,11,Asturias
+788,Generación total,Generación total,2018-01-01,1236071.773,1.0,11,Asturias
+789,Hidráulica,Renovable,2018-01-01,2638.58,0.03422201122855189,13,Madrid
+790,Solar fotovoltaica,Renovable,2018-01-01,4544.718,0.05894435280590389,13,Madrid
+791,Otras renovables,Renovable,2018-01-01,11375.027,0.1475324991923993,13,Madrid
+792,Cogeneración,No-Renovable,2018-01-01,44959.628,0.5831200472403778,13,Madrid
+793,Residuos no renovables,Renovable,2018-01-01,6791.943,0.0880905447663836,13,Madrid
+794,Residuos renovables,Renovable,2018-01-01,6791.943,0.0880905447663836,13,Madrid
+795,Generación total,Generación total,2018-01-01,77101.83899999999,1.0,13,Madrid
+796,Hidráulica,Renovable,2018-01-01,82892.896,0.18346137973094628,14,Navarra
+797,Ciclo combinado,No-Renovable,2018-01-01,72559.73,0.1605916649202959,14,Navarra
+798,Eólica,Renovable,2018-01-01,178058.018,0.3940840678848725,14,Navarra
+799,Solar fotovoltaica,Renovable,2018-01-01,15331.36,0.03393188794793514,14,Navarra
+800,Otras renovables,Renovable,2018-01-01,25001.657,0.05533451851869033,14,Navarra
+801,Cogeneración,No-Renovable,2018-01-01,77983.836,0.17259648099725988,14,Navarra
+802,Generación total,Generación total,2018-01-01,451827.497,1.0,14,Navarra
+803,Hidráulica,Renovable,2018-01-01,21998.309,0.013998994886540259,15,Valenciana
+804,Turbinación bombeo,No-Renovable,2018-01-01,131227.09,0.0835085715854595,15,Valenciana
+805,Nuclear,No-Renovable,2018-01-01,588493.968,0.3744980602278014,15,Valenciana
+806,Fuel + Gas,No-Renovable,2018-05-01,-0.001,6.230727374995373e-10,15,Valenciana
+807,Ciclo combinado,No-Renovable,2018-01-01,316877.86,0.2016505696777793,15,Valenciana
+808,Eólica,Renovable,2018-01-01,325231.057,0.20696626744751528,15,Valenciana
+809,Solar fotovoltaica,Renovable,2018-01-01,32857.964,0.02090971947062494,15,Valenciana
+810,Solar térmica,Renovable,2018-01-01,3685.665,0.002345435073600448,15,Valenciana
+811,Otras renovables,Renovable,2018-01-01,2922.515,0.001859791702209347,15,Valenciana
+812,Cogeneración,No-Renovable,2018-01-01,137729.659,0.08764659102051588,15,Valenciana
+813,Residuos no renovables,Renovable,2018-01-01,10396.517,0.006615998907953736,15,Valenciana
+814,Generación total,Generación total,2018-01-01,1571420.6039999998,1.0,15,Valenciana
+815,Hidráulica,Renovable,2018-01-01,45855.271,0.027593381521372626,16,Extremadura
+816,Turbinación bombeo,No-Renovable,2018-01-01,392.424,0.00023614090406625513,16,Extremadura
+817,Nuclear,No-Renovable,2018-01-01,1501699.986,0.9036470560677295,16,Extremadura
+818,Solar fotovoltaica,Renovable,2018-01-01,55075.131,0.033141426686205316,16,Extremadura
+819,Solar térmica,Renovable,2018-01-01,32318.391,0.01944757218902698,16,Extremadura
+820,Otras renovables,Renovable,2018-01-01,19906.63,0.011978802532751404,16,Extremadura
+821,Cogeneración,No-Renovable,2018-01-01,6573.534,0.003955620098847844,16,Extremadura
+822,Generación total,Generación total,2018-01-01,1661821.367,1.0,16,Extremadura
+823,Hidráulica,Renovable,2018-01-01,813977.927,0.2883093280081869,17,Galicia
+824,Turbinación bombeo,No-Renovable,2018-01-01,5381.166,0.0019059980644419898,17,Galicia
+825,Carbón,No-Renovable,2018-01-01,858246.073,0.30398901538308587,17,Galicia
+826,Ciclo combinado,No-Renovable,2018-01-01,9581.087,0.0033936015497849927,17,Galicia
+827,Eólica,Renovable,2018-01-01,852292.474,0.30188026271303936,17,Galicia
+828,Solar fotovoltaica,Renovable,2018-01-01,676.161,0.00023949485246341782,17,Galicia
+829,Otras renovables,Renovable,2018-01-01,21984.062,0.007786710096022442,17,Galicia
+830,Cogeneración,No-Renovable,2018-01-01,227290.679,0.08050589672195685,17,Galicia
+831,Residuos no renovables,Renovable,2018-01-01,16925.129,0.005994846305509065,17,Galicia
+832,Residuos renovables,Renovable,2018-01-01,16925.129,0.005994846305509065,17,Galicia
+833,Generación total,Generación total,2018-01-01,2823279.887,1.0,17,Galicia
+834,Hidráulica,Renovable,2018-01-01,14346.593,0.10071492779029033,20,La_Rioja
+835,Ciclo combinado,No-Renovable,2018-01-01,27393.052,0.1923027477071154,20,La_Rioja
+836,Eólica,Renovable,2018-01-01,87558.152,0.6146694867646461,20,La_Rioja
+837,Solar fotovoltaica,Renovable,2018-01-01,6884.941,0.04833317120346337,20,La_Rioja
+838,Otras renovables,Renovable,2018-01-01,643.396,0.00451672265886135,20,La_Rioja
+839,Cogeneración,No-Renovable,2018-01-01,5621.399,0.03946294387562331,20,La_Rioja
+840,Generación total,Generación total,2018-01-01,142447.53300000002,1.0,20,La_Rioja
+841,Hidráulica,Renovable,2018-01-01,1377.049,0.002481159739787244,21,Murcia
+842,Ciclo combinado,No-Renovable,2018-01-01,275943.283,0.49719317485747994,21,Murcia
+843,Eólica,Renovable,2018-01-01,71026.684,0.12797551052387446,21,Murcia
+844,Solar fotovoltaica,Renovable,2018-01-01,47139.758,0.08493617125673354,21,Murcia
+845,Solar térmica,Renovable,2018-01-01,1260.346,0.0022708848802053478,21,Murcia
+846,Otras renovables,Renovable,2018-01-01,4635.991,0.008353104517861025,21,Murcia
+847,Cogeneración,No-Renovable,2018-01-01,153619.043,0.2767899942240585,21,Murcia
+848,Generación total,Generación total,2018-01-01,555002.154,1.0,21,Murcia
+849,Hidráulica,Renovable,2019-01-01,292.916,0.00038778877922743,8742,Canarias
+850,Motores diésel,No-Renovable,2019-01-01,174264.272,0.2307068555553019,8742,Canarias
+851,Turbina de gas,No-Renovable,2019-01-01,21945.628,0.029053613634964653,8742,Canarias
+852,Turbina de vapor,No-Renovable,2019-01-01,218650.612,0.2894695199470512,8742,Canarias
+853,Ciclo combinado,No-Renovable,2019-01-01,264507.273,0.35017872869166095,8742,Canarias
+854,Hidroeólica,Renovable,2019-01-01,1109.656,0.0014690633000668896,8742,Canarias
+855,Eólica,Renovable,2019-01-01,55716.046,0.07376195722227306,8742,Canarias
+856,Solar fotovoltaica,Renovable,2019-01-01,17899.612,0.0236971305293144,8742,Canarias
+857,Otras renovables,Renovable,2019-01-01,963.329,0.0012753423401397701,8742,Canarias
+858,Generación total,Generación total,2019-01-01,755349.3439999998,1.0,8742,Canarias
+859,Carbón,No-Renovable,2019-01-01,217725.286,0.6393517215511724,8743,Baleares
+860,Motores diésel,No-Renovable,2019-01-01,35212.248,0.10340099577816987,8743,Baleares
+861,Turbina de gas,No-Renovable,2019-01-01,22524.488,0.06614330583476062,8743,Baleares
+862,Ciclo combinado,No-Renovable,2019-01-01,34412.136,0.10105146167475043,8743,Baleares
+863,Eólica,Renovable,2019-01-01,805.427,0.002365141635564535,8743,Baleares
+864,Solar fotovoltaica,Renovable,2019-01-01,7290.851,0.021409631485904152,8743,Baleares
+865,Otras renovables,Renovable,2019-01-01,107.643,0.00031609437115601196,8743,Baleares
+866,Cogeneración,No-Renovable,2019-01-01,3341.547,0.009812474546912092,8743,Baleares
+867,Residuos no renovables,No-Renovable,2019-01-01,9560.5395,0.02807458656080482,8743,Baleares
+868,Residuos renovables,Renovable,2019-01-01,9560.5395,0.02807458656080482,8743,Baleares
+869,Generación total,Generación total,2019-01-01,340540.7050000001,1.0,8743,Baleares
+870,Motores diésel,No-Renovable,2019-01-01,17829.88,0.9999798656652892,8744,Ceuta
+871,Turbina de gas,No-Renovable,2019-01-01,0.359,2.013433471082468e-05,8744,Ceuta
+872,Generación total,Generación total,2019-01-01,17830.239,1.0,8744,Ceuta
+873,Motores diésel,No-Renovable,2019-01-01,17425.724,0.9403966047615496,8745,Melilla
+874,Turbina de gas,No-Renovable,2019-01-01,0.561,3.0274925464860425e-05,8745,Melilla
+875,Solar fotovoltaica,Renovable,2019-01-01,5.053,0.0002726901931799282,8745,Melilla
+876,Residuos no renovables,No-Renovable,2019-01-01,549.424,0.029650215059902802,8745,Melilla
+877,Residuos renovables,Renovable,2019-01-01,549.424,0.029650215059902802,8745,Melilla
+878,Generación total,Generación total,2019-01-01,18530.185999999998,1.0,8745,Melilla
+879,Hidráulica,Renovable,2019-01-01,25288.605,0.008931578607806205,4,Andalucía
+880,Turbinación bombeo,No-Renovable,2019-01-01,3005.384,0.0010614592399479151,4,Andalucía
+881,Carbón,No-Renovable,2019-01-01,808964.433,0.2857148278546356,4,Andalucía
+882,Ciclo combinado,No-Renovable,2019-01-01,686208.66,0.24235922021587836,4,Andalucía
+883,Eólica,Renovable,2019-01-01,547209.843,0.19326679853316514,4,Andalucía
+884,Solar fotovoltaica,Renovable,2019-01-01,100175.137,0.035380445487730776,4,Andalucía
+885,Solar térmica,Renovable,2019-01-01,74526.679,0.02632177187580098,4,Andalucía
+886,Otras renovables,Renovable,2019-01-01,109551.171,0.03869192845408909,4,Andalucía
+887,Cogeneración,No-Renovable,2019-01-01,474456.626,0.1675713884223155,4,Andalucía
+888,Residuos no renovables,Renovable,2019-01-01,1983.605,0.0007005813086304061,4,Andalucía
+889,Generación total,Generación total,2019-01-01,2831370.143,1.0,4,Andalucía
+890,Hidráulica,Renovable,2019-01-01,131495.03,0.08521424745965042,5,Aragón
+891,Turbinación bombeo,No-Renovable,2019-01-01,4963.729,0.0032167028010765364,5,Aragón
+892,Carbón,No-Renovable,2019-01-01,339157.97,0.21978846792531012,5,Aragón
+893,Ciclo combinado,No-Renovable,2019-01-01,10155.896,0.006581442925397819,5,Aragón
+894,Eólica,Renovable,2019-01-01,726757.534,0.47096910313219675,5,Aragón
+895,Solar fotovoltaica,Renovable,2019-01-01,15605.837,0.010113231320856526,5,Aragón
+896,Otras renovables,Renovable,2019-01-01,4876.483,0.0031601637650851026,5,Aragón
+897,Cogeneración,No-Renovable,2019-01-01,276458.883,0.17915685230369954,5,Aragón
+898,Residuos no renovables,Renovable,2019-01-01,33639.49,0.021799788366727135,5,Aragón
+899,Generación total,Generación total,2019-01-01,1543110.852,1.0,5,Aragón
+900,Hidráulica,Renovable,2019-01-01,18324.586,0.09179131474150125,6,Cantabria
+901,Turbinación bombeo,No-Renovable,2019-01-01,16882.0,0.08456512880924154,6,Cantabria
+902,Eólica,Renovable,2019-01-01,5866.649,0.029387153676318452,6,Cantabria
+903,Solar fotovoltaica,Renovable,2019-01-01,72.563,0.00036348178188514357,6,Cantabria
+904,Otras renovables,Renovable,2019-01-01,7329.449,0.03671459535515736,6,Cantabria
+905,Cogeneración,No-Renovable,2019-01-01,144174.534,0.7221974907429436,6,Cantabria
+906,Residuos no renovables,Renovable,2019-01-01,3491.6665,0.01749041744647634,6,Cantabria
+907,Residuos renovables,Renovable,2019-01-01,3491.6665,0.01749041744647634,6,Cantabria
+908,Generación total,Generación total,2019-01-01,199633.114,1.0,6,Cantabria
+909,Hidráulica,Renovable,2019-01-01,56524.881,0.02564322923190312,7,Castilla_la_Mancha
+910,Turbinación bombeo,No-Renovable,2019-01-01,979.784,0.00044449143926107455,7,Castilla_la_Mancha
+911,Nuclear,No-Renovable,2019-01-01,738544.917,0.3350502693616969,7,Castilla_la_Mancha
+912,Ciclo combinado,No-Renovable,2019-01-01,129849.576,0.058907907175132765,7,Castilla_la_Mancha
+913,Eólica,Renovable,2019-01-01,1003724.223,0.4553522250847878,7,Castilla_la_Mancha
+914,Solar fotovoltaica,Renovable,2019-01-01,115653.651,0.0524677457365991,7,Castilla_la_Mancha
+915,Solar térmica,Renovable,2019-01-01,23995.448,0.010885839345441722,7,Castilla_la_Mancha
+916,Otras renovables,Renovable,2019-01-01,21393.916,0.009705621355595245,7,Castilla_la_Mancha
+917,Cogeneración,No-Renovable,2019-01-01,113614.527,0.051542671269582084,7,Castilla_la_Mancha
+918,Generación total,Generación total,2019-01-01,2204280.9230000004,1.0,7,Castilla_la_Mancha
+919,Hidráulica,Renovable,2019-01-01,498000.701,0.2107658863438491,8,Castilla_León
+920,Turbinación bombeo,No-Renovable,2019-01-01,27854.889,0.011788859648803048,8,Castilla_León
+921,Carbón,No-Renovable,2019-01-01,235049.402,0.09947856588884942,8,Castilla_León
+922,Eólica,Renovable,2019-01-01,1277136.993,0.5405151233153851,8,Castilla_León
+923,Solar fotovoltaica,Renovable,2019-01-01,46466.023,0.019665539632380314,8,Castilla_León
+924,Otras renovables,Renovable,2019-01-01,26022.214,0.01101322746599772,8,Castilla_León
+925,Cogeneración,No-Renovable,2019-01-01,252284.319,0.10677279770473529,8,Castilla_León
+926,Generación total,Generación total,2019-01-01,2362814.541,1.0,8,Castilla_León
+927,Hidráulica,Renovable,2019-01-01,254632.493,0.05942222884528801,9,Cataluña
+928,Turbinación bombeo,No-Renovable,2019-01-01,4316.877,0.0010074065959483041,9,Cataluña
+929,Nuclear,No-Renovable,2019-01-01,2146622.714,0.5009459109203366,9,Cataluña
+930,Ciclo combinado,No-Renovable,2019-01-01,865749.671,0.2020353901687433,9,Cataluña
+931,Eólica,Renovable,2019-01-01,445534.857,0.10397209688084336,9,Cataluña
+932,Solar fotovoltaica,Renovable,2019-01-01,21726.082,0.005070100054023712,9,Cataluña
+933,Solar térmica,Renovable,2019-01-01,5874.725,0.0013709532873840049,9,Cataluña
+934,Otras renovables,Renovable,2019-01-01,13917.103,0.0032477602115353133,9,Cataluña
+935,Cogeneración,No-Renovable,2019-01-01,503862.814,0.11758378158021957,9,Cataluña
+936,Residuos no renovables,Renovable,2019-01-01,11810.245,0.002756093980154051,9,Cataluña
+937,Residuos renovables,Renovable,2019-01-01,11091.128,0.0025882774755238386,9,Cataluña
+938,Generación total,Generación total,2019-01-01,4285138.709,1.0,9,Cataluña
+939,Hidráulica,Renovable,2019-01-01,40370.228,0.07340220142195425,10,País_Vasco
+940,Ciclo combinado,No-Renovable,2019-01-01,196421.842,0.35713931588781894,10,País_Vasco
+941,Eólica,Renovable,2019-01-01,30718.166,0.05585257056375868,10,País_Vasco
+942,Solar fotovoltaica,Renovable,2019-01-01,993.825,0.0018069985343697758,10,País_Vasco
+943,Otras renovables,Renovable,2019-01-01,4074.71,0.007408743992133292,10,País_Vasco
+944,Cogeneración,No-Renovable,2019-01-01,194916.343,0.3544019783419782,10,País_Vasco
+945,Residuos no renovables,Renovable,2019-01-01,52593.2605,0.09562643789523086,10,País_Vasco
+946,Residuos renovables,Renovable,2019-01-01,29898.2365,0.05436175336275595,10,País_Vasco
+947,Generación total,Generación total,2019-01-01,549986.611,1.0,10,País_Vasco
+948,Hidráulica,Renovable,2019-01-01,171819.515,0.13569201860065633,11,Asturias
+949,Turbinación bombeo,No-Renovable,2019-01-01,145.615,0.00011499737552241705,11,Asturias
+950,Carbón,No-Renovable,2019-01-01,735444.129,0.5808065424466567,11,Asturias
+951,Ciclo combinado,No-Renovable,2019-01-01,100421.597,0.07930652817889522,11,Asturias
+952,Eólica,Renovable,2019-01-01,135979.771,0.10738809043806803,11,Asturias
+953,Solar fotovoltaica,Renovable,2019-01-01,21.001,1.6585241103912925e-05,11,Asturias
+954,Otras renovables,Renovable,2019-01-01,21962.368,0.01734446781071672,11,Asturias
+955,Cogeneración,No-Renovable,2019-01-01,30801.631,0.024325150065652043,11,Asturias
+956,Residuos no renovables,Renovable,2019-01-01,69650.662,0.05500561984272872,11,Asturias
+957,Generación total,Generación total,2019-01-01,1266246.2889999999,1.0,11,Asturias
+958,Hidráulica,Renovable,2019-01-01,7255.261,0.061007514930495055,13,Madrid
+959,Solar fotovoltaica,Renovable,2019-01-01,5146.445,0.04327505518774191,13,Madrid
+960,Otras renovables,Renovable,2019-01-01,13467.019,0.11324049716636804,13,Madrid
+961,Cogeneración,No-Renovable,2019-01-01,77809.264,0.6542769219757678,13,Madrid
+962,Residuos no renovables,Renovable,2019-01-01,7623.0325,0.06410000536981358,13,Madrid
+963,Residuos renovables,Renovable,2019-01-01,7623.0325,0.06410000536981358,13,Madrid
+964,Generación total,Generación total,2019-01-01,118924.054,1.0,13,Madrid
+965,Hidráulica,Renovable,2019-01-01,34583.391,0.05484022864648786,14,Navarra
+966,Ciclo combinado,No-Renovable,2019-01-01,128532.554,0.20381907170054686,14,Navarra
+967,Eólica,Renovable,2019-01-01,353912.097,0.5612121818892193,14,Navarra
+968,Solar fotovoltaica,Renovable,2019-01-01,15493.086,0.024567989260500796,14,Navarra
+969,Otras renovables,Renovable,2019-01-01,27721.636,0.04395927677233007,14,Navarra
+970,Cogeneración,No-Renovable,2019-01-01,70378.075,0.1116012517309153,14,Navarra
+971,Generación total,Generación total,2019-01-01,630620.8389999999,1.0,14,Navarra
+972,Hidráulica,Renovable,2019-01-01,18320.701,0.009996095353727594,15,Valenciana
+973,Turbinación bombeo,No-Renovable,2019-01-01,92431.485,0.050432237158755104,15,Valenciana
+974,Nuclear,No-Renovable,2019-01-01,657933.802,0.35898020611943454,15,Valenciana
+975,Fuel + Gas,No-Renovable,2019-04-01,0.001,5.901765009286885e-10,15,Valenciana
+976,Ciclo combinado,No-Renovable,2019-01-01,524254.1,0.2860422193005956,15,Valenciana
+977,Eólica,Renovable,2019-01-01,358037.294,0.19535141865011607,15,Valenciana
+978,Solar fotovoltaica,Renovable,2019-01-01,35173.584,0.01919132349773883,15,Valenciana
+979,Solar térmica,Renovable,2019-01-01,1424.297,0.0007771213898435518,15,Valenciana
+980,Otras renovables,Renovable,2019-01-01,2667.557,0.0014554658216136772,15,Valenciana
+981,Cogeneración,No-Renovable,2019-01-01,138139.408,0.07537128052444501,15,Valenciana
+982,Residuos no renovables,Renovable,2019-01-01,4403.51,0.0024026321837299237,15,Valenciana
+983,Generación total,Generación total,2019-01-01,1832785.7380000001,1.0,15,Valenciana
+984,Hidráulica,Renovable,2019-01-01,174997.102,0.09565393379870844,16,Extremadura
+985,Turbinación bombeo,No-Renovable,2019-01-01,791.34,0.00043254878570657667,16,Extremadura
+986,Nuclear,No-Renovable,2019-01-01,1498287.393,0.8189683226952035,16,Extremadura
+987,Eólica,Renovable,2019-03-01,5127.092,0.0027749301953045257,16,Extremadura
+988,Solar fotovoltaica,Renovable,2019-01-01,68011.337,0.03717519806104932,16,Extremadura
+989,Solar térmica,Renovable,2019-01-01,58709.926,0.03209101928402832,16,Extremadura
+990,Otras renovables,Renovable,2019-01-01,23179.192,0.01266981493828139,16,Extremadura
+991,Cogeneración,No-Renovable,2019-01-01,5505.207,0.00300916243702245,16,Extremadura
+992,Generación total,Generación total,2019-01-01,1829481.497,1.0,16,Extremadura
+993,Hidráulica,Renovable,2019-01-01,682471.103,0.23161601559153677,17,Galicia
+994,Turbinación bombeo,No-Renovable,2019-01-01,8865.034,0.0030086018941134617,17,Galicia
+995,Carbón,No-Renovable,2019-01-01,956396.692,0.3245804696377983,17,Galicia
+996,Ciclo combinado,No-Renovable,2019-01-01,175087.11,0.05942079982782379,17,Galicia
+997,Eólica,Renovable,2019-01-01,849921.958,0.2884452346925485,17,Galicia
+998,Solar fotovoltaica,Renovable,2019-01-01,1002.144,0.0003401061221620178,17,Galicia
+999,Otras renovables,Renovable,2019-01-01,22890.776,0.007768637100695495,17,Galicia
+1000,Cogeneración,No-Renovable,2019-01-01,227128.678,0.07708258883590144,17,Galicia
+1001,Residuos no renovables,Renovable,2019-01-01,11399.5825,0.003868773148710166,17,Galicia
+1002,Residuos renovables,Renovable,2019-01-01,11399.5825,0.003868773148710166,17,Galicia
+1003,Generación total,Generación total,2019-01-01,2946562.6599999997,1.0,17,Galicia
+1004,Hidráulica,Renovable,2019-01-01,8005.688,0.03355031234919504,20,La_Rioja
+1005,Ciclo combinado,No-Renovable,2019-01-01,50425.744,0.21132468085697914,20,La_Rioja
+1006,Eólica,Renovable,2019-01-01,167080.341,0.7002018599725617,20,La_Rioja
+1007,Solar fotovoltaica,Renovable,2019-01-01,5848.36,0.024509361934981513,20,La_Rioja
+1008,Otras renovables,Renovable,2019-01-01,653.245,0.002737625272250169,20,La_Rioja
+1009,Cogeneración,No-Renovable,2019-01-01,6604.013,0.027676159614032494,20,La_Rioja
+1010,Generación total,Generación total,2019-01-01,238617.39099999997,1.0,20,La_Rioja
+1011,Hidráulica,Renovable,2019-01-01,4832.856,0.007836231190573487,21,Murcia
+1012,Ciclo combinado,No-Renovable,2019-01-01,331634.281,0.5377281873566299,21,Murcia
+1013,Eólica,Renovable,2019-01-01,68802.536,0.11155982685885016,21,Murcia
+1014,Solar fotovoltaica,Renovable,2019-01-01,50742.54,0.08227645819302765,21,Murcia
+1015,Solar térmica,Renovable,2019-01-01,1619.054,0.0026252140461091263,21,Murcia
+1016,Otras renovables,Renovable,2019-01-01,3776.287,0.00612305807869243,21,Murcia
+1017,Cogeneración,No-Renovable,2019-01-01,155324.633,0.2518510242761175,21,Murcia
+1018,Generación total,Generación total,2019-01-01,616732.1869999999,1.0,21,Murcia
+1019,Hidráulica,Renovable,2020-01-01,304.314,0.0004020247141639344,8742,Canarias
+1020,Motores diésel,No-Renovable,2020-01-01,175823.59,0.2322779382908009,8742,Canarias
+1021,Turbina de gas,No-Renovable,2020-01-01,17105.09,0.022597280828349574,8742,Canarias
+1022,Turbina de vapor,No-Renovable,2020-01-01,146918.518,0.19409187616849324,8742,Canarias
+1023,Ciclo combinado,No-Renovable,2020-01-01,336411.696,0.44442850452428867,8742,Canarias
+1024,Hidroeólica,Renovable,2020-01-01,824.55,0.0010893007816395962,8742,Canarias
+1025,Eólica,Renovable,2020-01-01,60189.521,0.07951548392676355,8742,Canarias
+1026,Solar fotovoltaica,Renovable,2020-01-01,18499.905,0.024439950247720905,8742,Canarias
+1027,Otras renovables,Renovable,2020-01-01,876.28,0.001157640517779571,8742,Canarias
+1028,Generación total,Generación total,2020-01-01,756953.464,1.0,8742,Canarias
+1029,Carbón,No-Renovable,2020-01-01,-3177.348,0.009726689302543726,8743,Baleares
+1030,Motores diésel,No-Renovable,2020-01-01,25163.324,0.07703148486323873,8743,Baleares
+1031,Turbina de gas,No-Renovable,2020-01-01,21825.088,0.06681227551299872,8743,Baleares
+1032,Ciclo combinado,No-Renovable,2020-01-01,247428.456,0.7574429102887412,8743,Baleares
+1033,Eólica,Renovable,2020-01-01,370.826,0.0011351949132751844,8743,Baleares
+1034,Solar fotovoltaica,Renovable,2020-01-01,5934.386,0.018166700286957948,8743,Baleares
+1035,Otras renovables,Renovable,2020-01-01,201.474,0.0006167643583707843,8743,Baleares
+1036,Cogeneración,No-Renovable,2020-01-01,4038.097,0.012361666047450239,8743,Baleares
+1037,Residuos no renovables,No-Renovable,2020-01-01,9261.923,0.02835315721321168,8743,Baleares
+1038,Residuos renovables,Renovable,2020-01-01,9261.923,0.02835315721321168,8743,Baleares
+1039,Generación total,Generación total,2020-01-01,320308.14900000003,1.0,8743,Baleares
+1040,Motores diésel,No-Renovable,2020-01-01,17833.799,0.9999263251093504,8744,Ceuta
+1041,Turbina de gas,No-Renovable,2020-01-01,1.314,7.36748906496976e-05,8744,Ceuta
+1042,Generación total,Generación total,2020-01-01,17835.112999999998,1.0,8744,Ceuta
+1043,Motores diésel,No-Renovable,2020-01-01,17598.248,0.9879599481583774,8745,Melilla
+1044,Turbina de gas,No-Renovable,2020-01-01,0.797,4.4743322101281155e-05,8745,Melilla
+1045,Solar fotovoltaica,Renovable,2020-01-01,4.709,0.0002643617362295269,8745,Melilla
+1046,Residuos no renovables,No-Renovable,2020-01-01,104.48,0.005865473391645991,8745,Melilla
+1047,Residuos renovables,Renovable,2020-01-01,104.48,0.005865473391645991,8745,Melilla
+1048,Generación total,Generación total,2020-01-01,17812.713999999996,1.0,8745,Melilla
+1049,Hidráulica,Renovable,2020-01-01,43652.072,0.022838228645924944,4,Andalucía
+1050,Turbinación bombeo,No-Renovable,2020-01-01,12735.544,0.006663080410071658,4,Andalucía
+1051,Carbón,No-Renovable,2020-01-01,84218.916,0.044062303844819704,4,Andalucía
+1052,Ciclo combinado,No-Renovable,2020-01-01,671794.101,0.3514744335989732,4,Andalucía
+1053,Eólica,Renovable,2020-01-01,353679.441,0.18504074539510795,4,Andalucía
+1054,Solar fotovoltaica,Renovable,2020-01-01,150462.326,0.07872004343312036,4,Andalucía
+1055,Solar térmica,Renovable,2020-01-01,44447.639,0.023254459542115913,4,Andalucía
+1056,Otras renovables,Renovable,2020-01-01,150126.992,0.07854460079743626,4,Andalucía
+1057,Cogeneración,No-Renovable,2020-01-01,400241.605,0.20940149848103376,4,Andalucía
+1058,Residuos no renovables,Renovable,2020-01-01,1.158,6.058513962860934e-07,4,Andalucía
+1059,Generación total,Generación total,2020-01-01,1911359.794,1.0,4,Andalucía
+1060,Hidráulica,Renovable,2020-01-01,287280.183,0.22778952905089606,5,Aragón
+1061,Turbinación bombeo,No-Renovable,2020-01-01,20015.774,0.01587086058438347,5,Aragón
+1062,Carbón,No-Renovable,2020-01-01,113740.968,0.09018722163134042,5,Aragón
+1063,Ciclo combinado,No-Renovable,2020-01-01,100164.878,0.07942250018359413,5,Aragón
+1064,Eólica,Renovable,2020-01-01,394171.704,0.31254570322850705,5,Aragón
+1065,Solar fotovoltaica,Renovable,2020-01-01,38977.426,0.030905889224374903,5,Aragón
+1066,Otras renovables,Renovable,2020-01-01,4165.463,0.0033028691542184535,5,Aragón
+1067,Cogeneración,No-Renovable,2020-01-01,273890.315,0.21717246631471118,5,Aragón
+1068,Residuos no renovables,Renovable,2020-01-01,28758.296,0.022802960627974354,5,Aragón
+1069,Generación total,Generación total,2020-01-01,1261165.007,1.0,5,Aragón
+1070,Hidráulica,Renovable,2020-01-01,17217.348,0.09120611748496277,6,Cantabria
+1071,Turbinación bombeo,No-Renovable,2020-01-01,24770.6,0.13121824881352334,6,Cantabria
+1072,Eólica,Renovable,2020-01-01,7950.637,0.042117214120449435,6,Cantabria
+1073,Solar fotovoltaica,Renovable,2020-01-01,96.596,0.0005117016932327477,6,Cantabria
+1074,Otras renovables,Renovable,2020-01-01,6517.083,0.03452319356948896,6,Cantabria
+1075,Cogeneración,No-Renovable,2020-01-01,125140.589,0.6629120386293778,6,Cantabria
+1076,Residuos no renovables,Renovable,2020-01-01,3540.5975,0.01875574284448252,6,Cantabria
+1077,Residuos renovables,Renovable,2020-01-01,3540.5975,0.01875574284448252,6,Cantabria
+1078,Generación total,Generación total,2020-01-01,188774.048,1.0,6,Cantabria
+1079,Hidráulica,Renovable,2020-01-01,42837.007,0.02341793078626657,7,Castilla_la_Mancha
+1080,Turbinación bombeo,No-Renovable,2020-01-01,7104.975,0.003884113864167829,7,Castilla_la_Mancha
+1081,Nuclear,No-Renovable,2020-01-01,736296.024,0.40251480053765826,7,Castilla_la_Mancha
+1082,Ciclo combinado,No-Renovable,2020-01-01,178484.577,0.09757309773304344,7,Castilla_la_Mancha
+1083,Eólica,Renovable,2020-01-01,609470.64,0.3331825041787254,7,Castilla_la_Mancha
+1084,Solar fotovoltaica,Renovable,2020-01-01,124733.244,0.06818857523679234,7,Castilla_la_Mancha
+1085,Solar térmica,Renovable,2020-01-01,9914.829,0.005420191454544632,7,Castilla_la_Mancha
+1086,Otras renovables,Renovable,2020-01-01,22558.459,0.01233215083179906,7,Castilla_la_Mancha
+1087,Cogeneración,No-Renovable,2020-01-01,97839.873,0.053486635377002684,7,Castilla_la_Mancha
+1088,Generación total,Generación total,2020-01-01,1829239.6279999996,1.0,7,Castilla_la_Mancha
+1089,Hidráulica,Renovable,2020-01-01,1150910.25,0.3962133862097128,8,Castilla_León
+1090,Turbinación bombeo,No-Renovable,2020-01-01,40238.554,0.013852560385592518,8,Castilla_León
+1091,Carbón,No-Renovable,2020-01-01,132263.414,0.04553312053011704,8,Castilla_León
+1092,Eólica,Renovable,2020-01-01,1264624.624,0.43536079773312025,8,Castilla_León
+1093,Solar fotovoltaica,Renovable,2020-01-01,38982.897,0.01342028679007286,8,Castilla_León
+1094,Otras renovables,Renovable,2020-01-01,21746.972,0.007486631921062316,8,Castilla_León
+1095,Cogeneración,No-Renovable,2020-01-01,256007.055,0.08813321643032215,8,Castilla_León
+1096,Generación total,Generación total,2020-01-01,2904773.7660000003,1.0,8,Castilla_León
+1097,Hidráulica,Renovable,2020-01-01,434119.206,0.10844167845750383,9,Cataluña
+1098,Turbinación bombeo,No-Renovable,2020-01-01,17582.049,0.0043919432218856415,9,Cataluña
+1099,Nuclear,No-Renovable,2020-01-01,2266619.444,0.5661947537326282,9,Cataluña
+1100,Ciclo combinado,No-Renovable,2020-01-01,582992.295,0.14562973055283857,9,Cataluña
+1101,Eólica,Renovable,2020-01-01,178517.73,0.04459319469874706,9,Cataluña
+1102,Solar fotovoltaica,Renovable,2020-01-01,16434.865,0.004105380091896887,9,Cataluña
+1103,Solar térmica,Renovable,2020-01-01,31.505,7.86985471406132e-06,9,Cataluña
+1104,Otras renovables,Renovable,2020-01-01,13158.289,0.003286901213002102,9,Cataluña
+1105,Cogeneración,No-Renovable,2020-01-01,469658.592,0.11731931072053968,9,Cataluña
+1106,Residuos no renovables,Renovable,2020-01-01,12329.783,0.0030799428936963383,9,Cataluña
+1107,Residuos renovables,Renovable,2020-01-01,11806.765,0.002949294562547666,9,Cataluña
+1108,Generación total,Generación total,2020-01-01,4003250.523,1.0,9,Cataluña
+1109,Hidráulica,Renovable,2020-01-01,28102.136,0.047896294712373166,10,País_Vasco
+1110,Ciclo combinado,No-Renovable,2020-01-01,274425.896,0.46772186966581725,10,País_Vasco
+1111,Eólica,Renovable,2020-01-01,35451.032,0.06042149523900148,10,País_Vasco
+1112,Solar fotovoltaica,Renovable,2020-01-01,1749.26,0.002981377376031697,10,País_Vasco
+1113,Otras renovables,Renovable,2020-01-01,5307.337,0.009045638989501812,10,País_Vasco
+1114,Cogeneración,No-Renovable,2020-01-01,190869.204,0.3253107751773771,10,País_Vasco
+1115,Residuos no renovables,Renovable,2020-01-01,35082.536,0.05979344358426852,10,País_Vasco
+1116,Residuos renovables,Renovable,2020-01-01,15741.409,0.02682910525562909,10,País_Vasco
+1117,Generación total,Generación total,2020-01-01,586728.8099999999,1.0,10,País_Vasco
+1118,Hidráulica,Renovable,2020-01-01,190280.637,0.18319792969163312,11,Asturias
+1119,Turbinación bombeo,No-Renovable,2020-01-01,598.49,0.0005762127490730731,11,Asturias
+1120,Carbón,No-Renovable,2020-01-01,424169.729,0.4083811018073325,11,Asturias
+1121,Ciclo combinado,No-Renovable,2020-01-01,187603.384,0.18062033054863302,11,Asturias
+1122,Eólica,Renovable,2020-01-01,141669.013,0.13639574836538446,11,Asturias
+1123,Solar fotovoltaica,Renovable,2020-01-01,25.78,2.4820405806452616e-05,11,Asturias
+1124,Otras renovables,Renovable,2020-01-01,22538.898,0.021699945492251484,11,Asturias
+1125,Cogeneración,No-Renovable,2020-01-01,23499.126,0.022624431474668798,11,Asturias
+1126,Residuos no renovables,Renovable,2020-01-01,48276.446,0.04647947946521708,11,Asturias
+1127,Generación total,Generación total,2020-01-01,1038661.503,1.0,11,Asturias
+1128,Hidráulica,Renovable,2020-01-01,12505.179,0.12029952797276562,13,Madrid
+1129,Solar fotovoltaica,Renovable,2020-01-01,3726.171,0.03584567741459822,13,Madrid
+1130,Otras renovables,Renovable,2020-01-01,15361.26,0.14777496004390867,13,Madrid
+1131,Cogeneración,No-Renovable,2020-01-01,56044.185,0.5391437420542602,13,Madrid
+1132,Residuos no renovables,Renovable,2020-01-01,8156.7815,0.07846804625723368,13,Madrid
+1133,Residuos renovables,Renovable,2020-01-01,8156.7815,0.07846804625723368,13,Madrid
+1134,Generación total,Generación total,2020-01-01,103950.358,1.0,13,Madrid
+1135,Hidráulica,Renovable,2020-01-01,68693.358,0.11810475937108103,14,Navarra
+1136,Ciclo combinado,No-Renovable,2020-01-01,224445.342,0.3858897552929351,14,Navarra
+1137,Eólica,Renovable,2020-01-01,172277.467,0.2961973235475598,14,Navarra
+1138,Solar fotovoltaica,Renovable,2020-01-01,11659.481,0.020046191334782196,14,Navarra
+1139,Otras renovables,Renovable,2020-01-01,22721.898,0.03906584819662256,14,Navarra
+1140,Cogeneración,No-Renovable,2020-01-01,81833.189,0.1406961222570193,14,Navarra
+1141,Generación total,Generación total,2020-01-01,581630.735,1.0,14,Navarra
+1142,Hidráulica,Renovable,2020-01-01,32249.567,0.01982613324768296,15,Valenciana
+1143,Turbinación bombeo,No-Renovable,2020-01-01,108158.592,0.06649288211757312,15,Valenciana
+1144,Nuclear,No-Renovable,2020-01-01,787465.658,0.4841118971762424,15,Valenciana
+1145,Fuel + Gas,No-Renovable,2020-03-01,0.001,6.637874342400806e-10,15,Valenciana
+1146,Ciclo combinado,No-Renovable,2020-01-01,347766.13,0.21379690562701306,15,Valenciana
+1147,Eólica,Renovable,2020-01-01,191255.545,0.11757856840459982,15,Valenciana
+1148,Solar fotovoltaica,Renovable,2020-01-01,28692.071,0.01763908404717434,15,Valenciana
+1149,Solar térmica,Renovable,2020-01-01,1315.325,0.0008086250805788677,15,Valenciana
+1150,Otras renovables,Renovable,2020-01-01,2804.021,0.0017238338107082563,15,Valenciana
+1151,Cogeneración,No-Renovable,2020-01-01,121019.97,0.07439969816805896,15,Valenciana
+1152,Residuos no renovables,Renovable,2020-01-01,5892.22,0.0036223723203682857,15,Valenciana
+1153,Generación total,Generación total,2020-01-01,1626619.099,1.0,15,Valenciana
+1154,Hidráulica,Renovable,2020-01-01,90353.729,0.05233743782688468,16,Extremadura
+1155,Turbinación bombeo,No-Renovable,2020-01-01,2.572,1.4898321472791388e-06,16,Extremadura
+1156,Nuclear,No-Renovable,2020-01-01,1498764.898,0.8681602357130402,16,Extremadura
+1157,Eólica,Renovable,2020-01-01,8964.814,0.005192872508389614,16,Extremadura
+1158,Solar fotovoltaica,Renovable,2020-01-01,76825.802,0.044501380077800134,16,Extremadura
+1159,Solar térmica,Renovable,2020-01-01,29216.231,0.016923514839087613,16,Extremadura
+1160,Otras renovables,Renovable,2020-01-01,18707.784,0.01083649222688737,16,Extremadura
+1161,Cogeneración,No-Renovable,2020-01-01,3533.147,0.00204657697576316,16,Extremadura
+1162,Generación total,Generación total,2020-01-01,1726368.977,1.0,16,Extremadura
+1163,Hidráulica,Renovable,2020-01-01,1309799.276,0.4409376880620226,17,Galicia
+1164,Turbinación bombeo,No-Renovable,2020-01-01,2571.737,0.0008657630125942762,17,Galicia
+1165,Carbón,No-Renovable,2020-01-01,114671.325,0.03860355541417234,17,Galicia
+1166,Ciclo combinado,No-Renovable,2020-01-01,215286.328,0.07247511697332949,17,Galicia
+1167,Eólica,Renovable,2020-01-01,1098630.429,0.36984870145694604,17,Galicia
+1168,Solar fotovoltaica,Renovable,2020-01-01,916.054,0.000308385216193972,17,Galicia
+1169,Otras renovables,Renovable,2020-01-01,24905.211,0.008384220666676299,17,Galicia
+1170,Cogeneración,No-Renovable,2020-01-01,171828.18,0.05784513842799304,17,Galicia
+1171,Residuos no renovables,Renovable,2020-01-01,15938.783,0.005365715385036041,17,Galicia
+1172,Residuos renovables,Renovable,2020-01-01,15938.783,0.005365715385036041,17,Galicia
+1173,Generación total,Generación total,2020-01-01,2970486.1059999997,1.0,17,Galicia
+1174,Hidráulica,Renovable,2020-01-01,17105.815,0.09406489927957694,20,La_Rioja
+1175,Ciclo combinado,No-Renovable,2020-01-01,83513.99,0.45924354132121714,20,La_Rioja
+1176,Eólica,Renovable,2020-01-01,68197.721,0.3750193578593998,20,La_Rioja
+1177,Solar fotovoltaica,Renovable,2020-01-01,6043.202,0.03323157578029097,20,La_Rioja
+1178,Otras renovables,Renovable,2020-01-01,634.365,0.003488373972914405,20,La_Rioja
+1179,Cogeneración,No-Renovable,2020-01-01,6356.109,0.03495225178660079,20,La_Rioja
+1180,Generación total,Generación total,2020-01-01,181851.202,1.0,20,La_Rioja
+1181,Hidráulica,Renovable,2020-01-01,3933.761,0.005497818678493197,21,Murcia
+1182,Ciclo combinado,No-Renovable,2020-01-01,405801.27,0.5671472674527662,21,Murcia
+1183,Eólica,Renovable,2020-01-01,41443.254,0.057921031790883565,21,Murcia
+1184,Solar fotovoltaica,Renovable,2020-01-01,101580.22,0.14196836840912508,21,Murcia
+1185,Solar térmica,Renovable,2020-01-01,1042.322,0.001456747718177181,21,Murcia
+1186,Otras renovables,Renovable,2020-01-01,2979.963,0.004164791974555299,21,Murcia
+1187,Cogeneración,No-Renovable,2020-01-01,158732.258,0.22184397397599936,21,Murcia
+1188,Generación total,Generación total,2020-01-01,715513.0480000001,1.0,21,Murcia
+1189,Hidráulica,Renovable,2021-01-01,297.621,0.00045918991925097876,8742,Canarias
+1190,Motores diésel,No-Renovable,2021-01-01,141051.043,0.21762314166485677,8742,Canarias
+1191,Turbina de gas,No-Renovable,2021-01-01,10157.844,0.015672212532462558,8742,Canarias
+1192,Turbina de vapor,No-Renovable,2021-01-01,116282.053,0.17940785941653323,8742,Canarias
+1193,Ciclo combinado,No-Renovable,2021-01-01,280660.149,0.4330215648636274,8742,Canarias
+1194,Hidroeólica,Renovable,2021-01-01,993.17,0.0015323302189781452,8742,Canarias
+1195,Eólica,Renovable,2021-01-01,81695.52,0.1260454041615569,8742,Canarias
+1196,Solar fotovoltaica,Renovable,2021-01-01,16647.461,0.025684834982490544,8742,Canarias
+1197,Otras renovables,Renovable,2021-01-01,358.723,0.0005534622402433594,8742,Canarias
+1198,Generación total,Generación total,2021-01-01,648143.584,1.0,8742,Canarias
+1199,Carbón,No-Renovable,2021-01-01,-632.692,0.0018946357374796058,8743,Baleares
+1200,Motores diésel,No-Renovable,2021-01-01,27196.95,0.08144296659424485,8743,Baleares
+1201,Turbina de gas,No-Renovable,2021-01-01,18542.487,0.055526636233666625,8743,Baleares
+1202,Ciclo combinado,No-Renovable,2021-01-01,260272.045,0.7794009058497661,8743,Baleares
+1203,Eólica,Renovable,2021-01-01,277.963,0.0008323775762883736,8743,Baleares
+1204,Solar fotovoltaica,Renovable,2021-01-01,8589.705,0.02572240848217973,8743,Baleares
+1205,Otras renovables,Renovable,2021-01-01,57.757,0.00017295694633346018,8743,Baleares
+1206,Cogeneración,No-Renovable,2021-01-01,4065.943,0.012175720436413044,8743,Baleares
+1207,Residuos no renovables,No-Renovable,2021-01-01,7151.5275,0.02141569607181406,8743,Baleares
+1208,Residuos renovables,Renovable,2021-01-01,7151.5275,0.02141569607181406,8743,Baleares
+1209,Generación total,Generación total,2021-01-01,332673.2130000001,1.0,8743,Baleares
+1210,Motores diésel,No-Renovable,2021-01-01,18537.33,0.9999284737793289,8744,Ceuta
+1211,Turbina de gas,No-Renovable,2021-01-01,1.326,7.152622067101304e-05,8744,Ceuta
+1212,Generación total,Generación total,2021-01-01,18538.656000000003,1.0,8744,Ceuta
+1213,Motores diésel,No-Renovable,2021-01-01,16974.65,0.926498372522248,8745,Melilla
+1214,Turbina de gas,No-Renovable,2021-01-01,64.614,0.0035267157698186725,8745,Melilla
+1215,Solar fotovoltaica,Renovable,2021-01-01,4.598,0.0002509647926088194,8745,Melilla
+1216,Residuos no renovables,No-Renovable,2021-01-01,638.7165,0.03486197345766224,8745,Melilla
+1217,Residuos renovables,Renovable,2021-01-01,638.7165,0.03486197345766224,8745,Melilla
+1218,Generación total,Generación total,2021-01-01,18321.295000000002,1.0,8745,Melilla
+1219,Hidráulica,Renovable,2021-01-01,35682.265,0.017121860756572058,4,Andalucía
+1220,Turbinación bombeo,No-Renovable,2021-01-01,30400.208,0.0145873062807764,4,Andalucía
+1221,Carbón,No-Renovable,2021-01-01,112564.883,0.05401339440772118,4,Andalucía
+1222,Ciclo combinado,No-Renovable,2021-01-01,480685.396,0.2306531947461771,4,Andalucía
+1223,Eólica,Renovable,2021-01-01,605060.374,0.2903335725169748,4,Andalucía
+1224,Solar fotovoltaica,Renovable,2021-01-01,213710.908,0.10254753752141522,4,Andalucía
+1225,Solar térmica,Renovable,2021-01-01,53930.207,0.025877995548407806,4,Andalucía
+1226,Otras renovables,Renovable,2021-01-01,150906.426,0.07241128928457724,4,Andalucía
+1227,Cogeneración,No-Renovable,2021-01-01,399848.588,0.19186427339878645,4,Andalucía
+1228,Residuos no renovables,Renovable,2021-01-01,1228.686,0.0005895755385917765,4,Andalucía
+1229,Generación total,Generación total,2021-01-01,2084017.9409999999,1.0,4,Andalucía
+1230,Hidráulica,Renovable,2021-01-01,227814.858,0.11920350439087951,5,Aragón
+1231,Turbinación bombeo,No-Renovable,2021-01-01,28851.855,0.015096654600893145,5,Aragón
+1232,Ciclo combinado,No-Renovable,2021-01-01,8267.525,0.00432595995402199,5,Aragón
+1233,Eólica,Renovable,2021-01-01,1308593.598,0.6847180384743379,5,Aragón
+1234,Solar fotovoltaica,Renovable,2021-01-01,54540.025,0.028537919636331087,5,Aragón
+1235,Otras renovables,Renovable,2021-01-01,4269.769,0.002234145007958793,5,Aragón
+1236,Cogeneración,No-Renovable,2021-01-01,249188.599,0.1303872561949125,5,Aragón
+1237,Residuos no renovables,Renovable,2021-01-01,29616.058,0.015496521740665143,5,Aragón
+1238,Generación total,Generación total,2021-01-01,1911142.287,1.0,5,Aragón
+1239,Hidráulica,Renovable,2021-01-01,33604.108,0.19446899186728248,6,Cantabria
+1240,Turbinación bombeo,No-Renovable,2021-01-01,42793.93,0.24765104388841552,6,Cantabria
+1241,Eólica,Renovable,2021-01-01,4765.84,0.027580202402657718,6,Cantabria
+1242,Solar fotovoltaica,Renovable,2021-01-01,91.306,0.0005283933074918725,6,Cantabria
+1243,Otras renovables,Renovable,2021-01-01,6093.836,0.035265395038146914,6,Cantabria
+1244,Cogeneración,No-Renovable,2021-01-01,79260.586,0.45868577300817037,6,Cantabria
+1245,Residuos no renovables,Renovable,2021-01-01,3094.853,0.01791010024391764,6,Cantabria
+1246,Residuos renovables,Renovable,2021-01-01,3094.853,0.01791010024391764,6,Cantabria
+1247,Generación total,Generación total,2021-01-01,172799.31199999998,1.0,6,Cantabria
+1248,Hidráulica,Renovable,2021-01-01,65930.749,0.0293393517697975,7,Castilla_la_Mancha
+1249,Turbinación bombeo,No-Renovable,2021-03-01,1130.627,0.00058447399205084,7,Castilla_la_Mancha
+1250,Nuclear,No-Renovable,2021-01-01,720692.572,0.32071003603778436,7,Castilla_la_Mancha
+1251,Ciclo combinado,No-Renovable,2021-01-01,116814.953,0.051982952567994664,7,Castilla_la_Mancha
+1252,Eólica,Renovable,2021-01-01,1039601.3,0.4626252348663411,7,Castilla_la_Mancha
+1253,Solar fotovoltaica,Renovable,2021-01-01,147622.462,0.06569237279166303,7,Castilla_la_Mancha
+1254,Solar térmica,Renovable,2021-01-01,12293.822,0.005470782202903163,7,Castilla_la_Mancha
+1255,Otras renovables,Renovable,2021-01-01,42421.016,0.018877460513245622,7,Castilla_la_Mancha
+1256,Cogeneración,No-Renovable,2021-01-01,101801.234,0.04530180925027061,7,Castilla_la_Mancha
+1257,Generación total,Generación total,2021-01-01,2247178.108,1.0,7,Castilla_la_Mancha
+1258,Hidráulica,Renovable,2021-01-01,1156726.799,0.3740414127919262,8,Castilla_León
+1259,Turbinación bombeo,No-Renovable,2021-01-01,19511.769,0.006309363325150823,8,Castilla_León
+1260,Eólica,Renovable,2021-01-01,1572457.728,0.5084729692829588,8,Castilla_León
+1261,Solar fotovoltaica,Renovable,2021-01-01,56869.972,0.018389584032034934,8,Castilla_León
+1262,Otras renovables,Renovable,2021-01-01,48365.712,0.015639630086211408,8,Castilla_León
+1263,Cogeneración,No-Renovable,2021-01-01,238577.992,0.0771470404817178,8,Castilla_León
+1264,Generación total,Generación total,2021-01-01,3092509.972,1.0,8,Castilla_León
+1265,Hidráulica,Renovable,2021-01-01,304809.796,0.07868636651469058,9,Cataluña
+1266,Turbinación bombeo,No-Renovable,2021-01-01,22696.6,0.005859106267822594,9,Cataluña
+1267,Nuclear,No-Renovable,2021-01-01,2230948.23,0.5759172192126012,9,Cataluña
+1268,Ciclo combinado,No-Renovable,2021-01-01,376805.035,0.09727187077868985,9,Cataluña
+1269,Eólica,Renovable,2021-01-01,393973.253,0.10170383035374271,9,Cataluña
+1270,Solar fotovoltaica,Renovable,2021-01-01,19291.117,0.004979983985618947,9,Cataluña
+1271,Solar térmica,Renovable,2021-01-01,5151.617,0.0013298851569892157,9,Cataluña
+1272,Otras renovables,Renovable,2021-01-01,13330.861,0.0034413494197620695,9,Cataluña
+1273,Cogeneración,No-Renovable,2021-01-01,480548.643,0.12405318709387936,9,Cataluña
+1274,Residuos no renovables,Renovable,2021-01-01,13320.864,0.003438768703471549,9,Cataluña
+1275,Residuos renovables,Renovable,2021-01-01,12854.714,0.0033184325127317243,9,Cataluña
+1276,Generación total,Generación total,2021-01-01,3873730.730000001,1.0,9,Cataluña
+1277,Hidráulica,Renovable,2021-01-01,65721.585,0.13632161766962675,10,País_Vasco
+1278,Ciclo combinado,No-Renovable,2021-01-01,161287.007,0.33454618757798393,10,País_Vasco
+1279,Eólica,Renovable,2021-01-01,21884.058,0.04539254778678781,10,País_Vasco
+1280,Solar fotovoltaica,Renovable,2021-01-01,2176.267,0.004514076127668338,10,País_Vasco
+1281,Otras renovables,Renovable,2021-01-01,5057.331,0.010490062633315237,10,País_Vasco
+1282,Cogeneración,No-Renovable,2021-01-01,176211.819,0.3655036654789666,10,País_Vasco
+1283,Residuos no renovables,Renovable,2021-01-01,32567.308,0.0675520547732526,10,País_Vasco
+1284,Residuos renovables,Renovable,2021-01-01,17201.47,0.03567978795239881,10,País_Vasco
+1285,Generación total,Generación total,2021-01-01,482106.845,1.0,10,País_Vasco
+1286,Hidráulica,Renovable,2021-01-01,302912.562,0.29572128224014915,11,Asturias
+1287,Turbinación bombeo,No-Renovable,2021-01-01,1168.11,0.001140378545930164,11,Asturias
+1288,Carbón,No-Renovable,2021-01-01,355768.253,0.34732215548557477,11,Asturias
+1289,Ciclo combinado,No-Renovable,2021-01-01,119282.926,0.11645109596371521,11,Asturias
+1290,Eólica,Renovable,2021-01-01,123123.33,0.12020032705436967,11,Asturias
+1291,Solar fotovoltaica,Renovable,2021-01-01,23.39,2.2834710934164195e-05,11,Asturias
+1292,Otras renovables,Renovable,2021-01-01,18081.309,0.017652050633873515,11,Asturias
+1293,Cogeneración,No-Renovable,2021-01-01,31993.763,0.031234216750797683,11,Asturias
+1294,Residuos no renovables,Renovable,2021-01-01,71964.119,0.07025565861465556,11,Asturias
+1295,Generación total,Generación total,2021-01-01,1024317.7620000001,1.0,11,Asturias
+1296,Hidráulica,Renovable,2021-01-01,26490.113,0.230837210050116,13,Madrid
+1297,Solar fotovoltaica,Renovable,2021-01-01,2725.131,0.023747034867729052,13,Madrid
+1298,Otras renovables,Renovable,2021-01-01,12840.69,0.11189491923716688,13,Madrid
+1299,Cogeneración,No-Renovable,2021-01-01,62523.627,0.5448364685682581,13,Madrid
+1300,Residuos no renovables,Renovable,2021-01-01,5088.562,0.04434218363836494,13,Madrid
+1301,Residuos renovables,Renovable,2021-01-01,5088.562,0.04434218363836494,13,Madrid
+1302,Generación total,Generación total,2021-01-01,114756.68500000001,1.0,13,Madrid
+1303,Hidráulica,Renovable,2021-01-01,90894.154,0.14266807632629008,14,Navarra
+1304,Ciclo combinado,No-Renovable,2021-01-01,90745.828,0.14243526283765612,14,Navarra
+1305,Eólica,Renovable,2021-01-01,336028.34,0.5274323457470825,14,Navarra
+1306,Solar fotovoltaica,Renovable,2021-01-01,14460.216,0.022696852428844227,14,Navarra
+1307,Otras renovables,Renovable,2021-01-01,28092.78,0.04409461670392659,14,Navarra
+1308,Cogeneración,No-Renovable,2021-01-01,76880.943,0.12067284595620041,14,Navarra
+1309,Generación total,Generación total,2021-01-01,637102.261,1.0,14,Navarra
+1310,Hidráulica,Renovable,2021-01-01,24136.491,0.013843442454101974,15,Valenciana
+1311,Turbinación bombeo,No-Renovable,2021-01-01,159147.453,0.09127874500574248,15,Valenciana
+1312,Nuclear,No-Renovable,2021-01-01,773966.104,0.44390691348421374,15,Valenciana
+1313,Fuel + Gas,No-Renovable,2021-07-01,-0.001,6.426126491700358e-10,15,Valenciana
+1314,Ciclo combinado,No-Renovable,2021-01-01,237998.034,0.13650335866420704,15,Valenciana
+1315,Eólica,Renovable,2021-01-01,377426.174,0.2164721259789121,15,Valenciana
+1316,Solar fotovoltaica,Renovable,2021-01-01,30330.378,0.017395935575480317,15,Valenciana
+1317,Solar térmica,Renovable,2021-01-01,1286.261,0.0007377327605100367,15,Valenciana
+1318,Otras renovables,Renovable,2021-01-01,3039.889,0.0017435230513978852,15,Valenciana
+1319,Cogeneración,No-Renovable,2021-01-01,131760.7,0.07557112043180568,15,Valenciana
+1320,Residuos no renovables,Renovable,2021-01-01,4440.956,0.0025471025936288287,15,Valenciana
+1321,Generación total,Generación total,2021-01-01,1743532.44,1.0,15,Valenciana
+1322,Hidráulica,Renovable,2021-01-01,289223.834,0.1450860668264668,16,Extremadura
+1323,Turbinación bombeo,No-Renovable,2021-01-01,7668.486,0.0038468146171308456,16,Extremadura
+1324,Nuclear,No-Renovable,2021-01-01,1474133.61,0.7394834806442708,16,Extremadura
+1325,Eólica,Renovable,2021-01-01,10547.9,0.005291242091337775,16,Extremadura
+1326,Solar fotovoltaica,Renovable,2021-01-01,156722.305,0.07861808102726386,16,Extremadura
+1327,Solar térmica,Renovable,2021-01-01,28798.59,0.014446507037341948,16,Extremadura
+1328,Otras renovables,Renovable,2021-01-01,20634.114,0.010350884300596523,16,Extremadura
+1329,Cogeneración,No-Renovable,2021-01-01,5735.043,0.002876923455591356,16,Extremadura
+1330,Generación total,Generación total,2021-01-01,1993463.8820000002,1.0,16,Extremadura
+1331,Hidráulica,Renovable,2021-01-01,1413430.997,0.46268598486797957,17,Galicia
+1332,Turbinación bombeo,No-Renovable,2021-01-01,8292.977,0.0027147021954921106,17,Galicia
+1333,Carbón,No-Renovable,2021-01-01,90275.535,0.029551654739151556,17,Galicia
+1334,Ciclo combinado,No-Renovable,2021-01-01,262165.182,0.08581965139382258,17,Galicia
+1335,Eólica,Renovable,2021-01-01,1025512.482,0.3357010379252183,17,Galicia
+1336,Solar fotovoltaica,Renovable,2021-01-01,914.91,0.00029949536646221094,17,Galicia
+1337,Otras renovables,Renovable,2021-01-01,32446.143,0.01062122994400575,17,Galicia
+1338,Cogeneración,No-Renovable,2021-01-01,194159.476,0.06355801490499705,17,Galicia
+1339,Residuos no renovables,Renovable,2021-01-01,13820.439,0.004524114331435477,17,Galicia
+1340,Residuos renovables,Renovable,2021-01-01,13820.439,0.004524114331435477,17,Galicia
+1341,Generación total,Generación total,2021-01-01,3054838.5799999996,1.0,17,Galicia
+1342,Hidráulica,Renovable,2021-01-01,15402.108,0.0558371477392933,20,La_Rioja
+1343,Ciclo combinado,No-Renovable,2021-01-01,121500.334,0.44047425845419863,20,La_Rioja
+1344,Eólica,Renovable,2021-01-01,126564.559,0.4588335557341568,20,La_Rioja
+1345,Solar fotovoltaica,Renovable,2021-01-01,5153.449,0.018682760384481998,20,La_Rioja
+1346,Otras renovables,Renovable,2021-01-01,638.97,0.002316453195301334,20,La_Rioja
+1347,Cogeneración,No-Renovable,2021-01-01,6580.386,0.023855824492567984,20,La_Rioja
+1348,Generación total,Generación total,2021-01-01,275839.806,1.0,20,La_Rioja
+1349,Hidráulica,Renovable,2021-01-01,4268.739,0.007354042201855541,21,Murcia
+1350,Ciclo combinado,No-Renovable,2021-01-01,212698.603,0.3664301103294715,21,Murcia
+1351,Eólica,Renovable,2021-01-01,73736.704,0.12703115206662444,21,Murcia
+1352,Solar fotovoltaica,Renovable,2021-01-01,118529.474,0.2041986530354138,21,Murcia
+1353,Solar térmica,Renovable,2021-01-01,1173.532,0.002021722071372351,21,Murcia
+1354,Otras renovables,Renovable,2021-01-01,3955.07,0.006813663634926567,21,Murcia
+1355,Cogeneración,No-Renovable,2021-01-01,166099.464,0.28615065666033584,21,Murcia
+1356,Generación total,Generación total,2021-01-01,580461.586,1.0,21,Murcia
