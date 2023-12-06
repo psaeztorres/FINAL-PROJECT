@@ -1,0 +1,191 @@
+Unnamed: 0,class,type,date,value,percentage,aacc,unit
+0,Demanda,,2014-01-01,721426.992,1,Canarias,MWh
+1,Demanda,,2014-01-01,424810.96,1,Baleares,MWh
+2,Demanda,,2014-01-01,18805.79,1,Ceuta,MWh
+3,Demanda,,2014-01-01,17999.596,1,Melilla,MWh
+4,Demanda,,2014-01-01,3406748.087,1,Andalucia,MWh
+5,Demanda,,2014-01-01,882108.476,1,Aragon,MWh
+6,Demanda,,2014-01-01,343029.447,1,Cantabria,MWh
+7,Demanda,,2014-01-01,1045902.927,1,Castilla-La Mancha,MWh
+8,Demanda,,2014-01-01,1240207.395,1,Castilla-Leon,MWh
+9,Demanda,,2014-01-01,4100446.945,1,Cataluña,MWh
+10,Demanda,,2014-01-01,1482887.713,1,Pais Vasco,MWh
+11,Demanda,,2014-01-01,926940.981,1,Asturias,MWh
+12,Demanda,,2014-01-01,2752590.443,1,Madrid,MWh
+13,Demanda,,2014-01-01,426554.33,1,Navarra,MWh
+14,Demanda,,2014-01-01,2282883.885,1,Valencia,MWh
+15,Demanda,,2014-01-01,437647.639,1,Extremadura,MWh
+16,Demanda,,2014-01-01,1822607.31,1,Galicia,MWh
+17,Demanda,,2014-01-01,153405.823,1,La Rioja,MWh
+18,Demanda,,2014-01-01,714366.236,1,Murcia,MWh
+19,Demanda,,2015-01-01,728282.214,1,Canarias,MWh
+20,Demanda,,2015-01-01,450337.744,1,Baleares,MWh
+21,Demanda,,2015-01-01,18698.456,1,Ceuta,MWh
+22,Demanda,,2015-01-01,18439.342,1,Melilla,MWh
+23,Demanda,,2015-01-01,3485428.721,1,Andalucia,MWh
+24,Demanda,,2015-01-01,903645.512,1,Aragon,MWh
+25,Demanda,,2015-01-01,374887.914,1,Cantabria,MWh
+26,Demanda,,2015-01-01,1069550.84,1,Castilla-La Mancha,MWh
+27,Demanda,,2015-01-01,1265447.012,1,Castilla-Leon,MWh
+28,Demanda,,2015-01-01,4166773.739,1,Cataluña,MWh
+29,Demanda,,2015-01-01,1565679.743,1,Pais Vasco,MWh
+30,Demanda,,2015-01-01,956258.03,1,Asturias,MWh
+31,Demanda,,2015-01-01,2785644.732,1,Madrid,MWh
+32,Demanda,,2015-01-01,426410.719,1,Navarra,MWh
+33,Demanda,,2015-01-01,2391973.644,1,Valencia,MWh
+34,Demanda,,2015-01-01,456054.476,1,Extremadura,MWh
+35,Demanda,,2015-01-01,1865880.341,1,Galicia,MWh
+36,Demanda,,2015-01-01,155901.049,1,La Rioja,MWh
+37,Demanda,,2015-01-01,765484.164,1,Murcia,MWh
+38,Demanda,,2016-01-01,724877.676,1,Canarias,MWh
+39,Demanda,,2016-01-01,409886.464,1,Baleares,MWh
+40,Demanda,,2016-01-01,17311.162,1,Ceuta,MWh
+41,Demanda,,2016-01-01,17057.436,1,Melilla,MWh
+42,Demanda,,2016-01-01,3305940.578,1,Andalucia,MWh
+43,Demanda,,2016-01-01,879275.459,1,Aragon,MWh
+44,Demanda,,2016-01-01,297997.119,1,Cantabria,MWh
+45,Demanda,,2016-01-01,980802.01,1,Castilla-La Mancha,MWh
+46,Demanda,,2016-01-01,1225929.976,1,Castilla-Leon,MWh
+47,Demanda,,2016-01-01,3979236.621,1,Cataluña,MWh
+48,Demanda,,2016-01-01,1469943.556,1,Pais Vasco,MWh
+49,Demanda,,2016-01-01,917147.058,1,Asturias,MWh
+50,Demanda,,2016-01-01,2626001.248,1,Madrid,MWh
+51,Demanda,,2016-01-01,416668.673,1,Navarra,MWh
+52,Demanda,,2016-01-01,2267972.157,1,Valencia,MWh
+53,Demanda,,2016-01-01,430131.453,1,Extremadura,MWh
+54,Demanda,,2016-01-01,1776455.948,1,Galicia,MWh
+55,Demanda,,2016-01-01,151567.234,1,La Rioja,MWh
+56,Demanda,,2016-01-01,738822.756,1,Murcia,MWh
+57,Demanda,,2017-01-01,745407.228,1,Canarias,MWh
+58,Demanda,,2017-01-01,477380.4,1,Baleares,MWh
+59,Demanda,,2017-01-01,18540.055,1,Ceuta,MWh
+60,Demanda,,2017-01-01,18568.292,1,Melilla,MWh
+61,Demanda,,2017-01-01,3630139.835,1,Andalucia,MWh
+62,Demanda,,2017-01-01,935721.866,1,Aragon,MWh
+63,Demanda,,2017-01-01,381804.591,1,Cantabria,MWh
+64,Demanda,,2017-01-01,1061646.481,1,Castilla-La Mancha,MWh
+65,Demanda,,2017-01-01,1282078.402,1,Castilla-Leon,MWh
+66,Demanda,,2017-01-01,4327712.209,1,Cataluña,MWh
+67,Demanda,,2017-01-01,1539208.76,1,Pais Vasco,MWh
+68,Demanda,,2017-01-01,954740.085,1,Asturias,MWh
+69,Demanda,,2017-01-01,2783035.02,1,Madrid,MWh
+70,Demanda,,2017-01-01,452567.634,1,Navarra,MWh
+71,Demanda,,2017-01-01,2462847.842,1,Valencia,MWh
+72,Demanda,,2017-01-01,458153.293,1,Extremadura,MWh
+73,Demanda,,2017-01-01,1865725.421,1,Galicia,MWh
+74,Demanda,,2017-01-01,157474.283,1,La Rioja,MWh
+75,Demanda,,2017-01-01,785471.791,1,Murcia,MWh
+76,Demanda,,2018-01-01,755287.211,1,Canarias,MWh
+77,Demanda,,2018-01-01,436553.899,1,Baleares,MWh
+78,Demanda,,2018-01-01,18544.061,1,Ceuta,MWh
+79,Demanda,,2018-01-01,18185.973,1,Melilla,MWh
+80,Demanda,,2018-01-01,3647455.25,1,Andalucia,MWh
+81,Demanda,,2018-01-01,917058.803,1,Aragon,MWh
+82,Demanda,,2018-01-01,360243.957,1,Cantabria,MWh
+83,Demanda,,2018-01-01,1042435.374,1,Castilla-La Mancha,MWh
+84,Demanda,,2018-01-01,1286001.566,1,Castilla-Leon,MWh
+85,Demanda,,2018-01-01,4140577.062,1,Cataluña,MWh
+86,Demanda,,2018-01-01,1484220.721,1,Pais Vasco,MWh
+87,Demanda,,2018-01-01,950230.877,1,Asturias,MWh
+88,Demanda,,2018-01-01,2705345.48,1,Madrid,MWh
+89,Demanda,,2018-01-01,450314.012,1,Navarra,MWh
+90,Demanda,,2018-01-01,2345787.144,1,Valencia,MWh
+91,Demanda,,2018-01-01,454690.904,1,Extremadura,MWh
+92,Demanda,,2018-01-01,1844479.544,1,Galicia,MWh
+93,Demanda,,2018-01-01,153187.46,1,La Rioja,MWh
+94,Demanda,,2018-01-01,813698.083,1,Murcia,MWh
+95,Demanda,,2019-01-01,755349.344,1,Canarias,MWh
+96,Demanda,,2019-01-01,477795.703,1,Baleares,MWh
+97,Demanda,,2019-01-01,17830.239,1,Ceuta,MWh
+98,Demanda,,2019-01-01,18530.186,1,Melilla,MWh
+99,Demanda,,2019-01-01,3668893.328,1,Andalucia,MWh
+100,Demanda,,2019-01-01,957420.099,1,Aragon,MWh
+101,Demanda,,2019-01-01,376344.812,1,Cantabria,MWh
+102,Demanda,,2019-01-01,1112346.134,1,Castilla-La Mancha,MWh
+103,Demanda,,2019-01-01,1304599.661,1,Castilla-Leon,MWh
+104,Demanda,,2019-01-01,4346165.016,1,Cataluña,MWh
+105,Demanda,,2019-01-01,1566908.501,1,Pais Vasco,MWh
+106,Demanda,,2019-01-01,955695.747,1,Asturias,MWh
+107,Demanda,,2019-01-01,2744878.748,1,Madrid,MWh
+108,Demanda,,2019-01-01,463542.521,1,Navarra,MWh
+109,Demanda,,2019-01-01,2510836.663,1,Valencia,MWh
+110,Demanda,,2019-01-01,457953.307,1,Extremadura,MWh
+111,Demanda,,2019-01-01,1831829.718,1,Galicia,MWh
+112,Demanda,,2019-01-01,157569.432,1,La Rioja,MWh
+113,Demanda,,2019-01-01,841665.36,1,Murcia,MWh
+114,Demanda,,2020-01-01,756953.464,1,Canarias,MWh
+115,Demanda,,2020-01-01,456464.05,1,Baleares,MWh
+116,Demanda,,2020-01-01,17835.113,1,Ceuta,MWh
+117,Demanda,,2020-01-01,17812.714,1,Melilla,MWh
+118,Demanda,,2020-01-01,3648510.198,1,Andalucia,MWh
+119,Demanda,,2020-01-01,936969.954,1,Aragon,MWh
+120,Demanda,,2020-01-01,341784.053,1,Cantabria,MWh
+121,Demanda,,2020-01-01,1061533.843,1,Castilla-La Mancha,MWh
+122,Demanda,,2020-01-01,1289529.098,1,Castilla-Leon,MWh
+123,Demanda,,2020-01-01,4180533.867,1,Cataluña,MWh
+124,Demanda,,2020-01-01,1464723.239,1,Pais Vasco,MWh
+125,Demanda,,2020-01-01,818569.533,1,Asturias,MWh
+126,Demanda,,2020-01-01,2737334.364,1,Madrid,MWh
+127,Demanda,,2020-01-01,450763.969,1,Navarra,MWh
+128,Demanda,,2020-01-01,2508069.037,1,Valencia,MWh
+129,Demanda,,2020-01-01,458471.77,1,Extremadura,MWh
+130,Demanda,,2020-01-01,1697792.905,1,Galicia,MWh
+131,Demanda,,2020-01-01,155709.587,1,La Rioja,MWh
+132,Demanda,,2020-01-01,826921.959,1,Murcia,MWh
+133,Demanda,,2021-01-01,648143.584,1,Canarias,MWh
+134,Demanda,,2021-01-01,470923.625,1,Baleares,MWh
+135,Demanda,,2021-01-01,18538.656,1,Ceuta,MWh
+136,Demanda,,2021-01-01,18321.295,1,Melilla,MWh
+137,Demanda,,2021-01-01,3806960.159,1,Andalucia,MWh
+138,Demanda,,2021-01-01,899098.143,1,Aragon,MWh
+139,Demanda,,2021-01-01,301323.586,1,Cantabria,MWh
+140,Demanda,,2021-01-01,1064675.945,1,Castilla-La Mancha,MWh
+141,Demanda,,2021-01-01,1267533.707,1,Castilla-Leon,MWh
+142,Demanda,,2021-01-01,4205890.778,1,Cataluña,MWh
+143,Demanda,,2021-01-01,1452389.83,1,Pais Vasco,MWh
+144,Demanda,,2021-01-01,867913.759,1,Asturias,MWh
+145,Demanda,,2021-01-01,2740894.826,1,Madrid,MWh
+146,Demanda,,2021-01-01,443553.286,1,Navarra,MWh
+147,Demanda,,2021-01-01,2541784.95,1,Valencia,MWh
+148,Demanda,,2021-01-01,487003.673,1,Extremadura,MWh
+149,Demanda,,2021-01-01,1694495.593,1,Galicia,MWh
+150,Demanda,,2021-01-01,146298.76,1,La Rioja,MWh
+151,Demanda,,2021-01-01,833740.735,1,Murcia,MWh
+152,Demanda,,2022-01-01,713309.862,1,Canarias,MWh
+153,Demanda,,2022-01-01,464916.63,1,Baleares,MWh
+154,Demanda,,2022-01-01,17253.197,1,Ceuta,MWh
+155,Demanda,,2022-01-01,17045.196,1,Melilla,MWh
+156,Demanda,,2022-01-01,3532788.346,1,Andalucia,MWh
+157,Demanda,,2022-01-01,905738.601,1,Aragon,MWh
+158,Demanda,,2022-01-01,310887.008,1,Cantabria,MWh
+159,Demanda,,2022-01-01,1062483.113,1,Castilla-La Mancha,MWh
+160,Demanda,,2022-01-01,1220895.001,1,Castilla-Leon,MWh
+161,Demanda,,2022-01-01,3978813.799,1,Cataluña,MWh
+162,Demanda,,2022-01-01,1403157.038,1,Pais Vasco,MWh
+163,Demanda,,2022-01-01,838347.38,1,Asturias,MWh
+164,Demanda,,2022-01-01,2601492.321,1,Madrid,MWh
+165,Demanda,,2022-01-01,448017.748,1,Navarra,MWh
+166,Demanda,,2022-01-01,2417389.067,1,Valencia,MWh
+167,Demanda,,2022-01-01,452699.784,1,Extremadura,MWh
+168,Demanda,,2022-01-01,1386507.81,1,Galicia,MWh
+169,Demanda,,2022-01-01,145992.771,1,La Rioja,MWh
+170,Demanda,,2022-01-01,811561.251,1,Murcia,MWh
+171,Demanda,,2023-01-01,719419.831,1,Canarias,MWh
+172,Demanda,,2023-01-01,450228.3,1,Baleares,MWh
+173,Demanda,,2023-01-01,16642.232,1,Ceuta,MWh
+174,Demanda,,2023-01-01,16257.917,1,Melilla,MWh
+175,Demanda,,2023-01-01,3514251.025,1,Andalucia,MWh
+176,Demanda,,2023-01-01,761269.072,1,Aragon,MWh
+177,Demanda,,2023-01-01,313023.322,1,Cantabria,MWh
+178,Demanda,,2023-01-01,1057383.182,1,Castilla-La Mancha,MWh
+179,Demanda,,2023-01-01,1236853.559,1,Castilla-Leon,MWh
+180,Demanda,,2023-01-01,3444370.992,1,Cataluña,MWh
+181,Demanda,,2023-01-01,1410776.175,1,Pais Vasco,MWh
+182,Demanda,,2023-01-01,763110.426,1,Asturias,MWh
+183,Demanda,,2023-01-01,2739230.275,1,Madrid,MWh
+184,Demanda,,2023-01-01,436462.81,1,Navarra,MWh
+185,Demanda,,2023-01-01,2455792.176,1,Valencia,MWh
+186,Demanda,,2023-01-01,458016.752,1,Extremadura,MWh
+187,Demanda,,2023-01-01,1259676.714,1,Galicia,MWh
+188,Demanda,,2023-01-01,146545.345,1,La Rioja,MWh
+189,Demanda,,2023-01-01,780115.996,1,Murcia,MWh
