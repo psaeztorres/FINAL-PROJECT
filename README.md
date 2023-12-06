@@ -1,7 +1,7 @@
 # FINAL-PROJECT
 ## 100 % ELECTRICITY FROM RENOWABLE SOURCES IN SPAIN: A PIPE DREAM OR A REAL POSSIBILITY
 
-![placa solar](images\image1.jpeg)
+![placa solar](images/image1.jpeg)
 ---
 # [LINK TO PRESENTATION](https://public.tableau.com/app/profile/patricia.saez/viz/ELECTRICITYDEMANDGENERATIONINSPAIN/PROJECT?publish=yes)
 ---
@@ -43,7 +43,7 @@ The percentage of electricity from renewable sources in 2022 was 44,6% of the de
 
 Only 4 autonomous communities (aacc) were able to generate all their electrical demand from renewable sources.
 
-![Autonomous communities situation](images\aacc_situation.png)
+![Autonomous communities situation](images/aacc_situation.png)
 
 ### PROJECTS IN SPAIN
 
@@ -57,7 +57,7 @@ In the following graphic, each autonomous community (aacc) is represented by thr
 
 (total renewable electricity generated in 2022) + (electricity generated if all projects were already running).
 
-![Autonomous communities projects](images\aacc_projects.png)
+![Autonomous communities projects](images/aacc_projects.png)
 
 ### PROJECTS AROUND THE WORLD
 
@@ -84,4 +84,4 @@ It is evident that most of the "active" projects worldwide are for wind and sola
 
 Find how to store electricity efficiently
 
-![placa solar](images\image2.jpeg)
+![placa solar](images/image2.jpeg)
